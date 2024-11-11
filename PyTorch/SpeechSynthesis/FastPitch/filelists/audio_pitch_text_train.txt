@@ -1,0 +1,653 @@
+wavs/jvf_09039_00005849163_filtered.wav|pitch/jvf_09039_00005849163_filtered.pt|ayu wes rodo miring pikirane merga dipedhot pacare
+wavs/jvf_09039_00666704740_filtered.wav|pitch/jvf_09039_00666704740_filtered.pt|elton john sampun sanjang nanging mboten ènten ingkang nggateaken
+wavs/jvf_09039_01834447756_filtered.wav|pitch/jvf_09039_01834447756_filtered.pt|petra sihombing bingung milih mangan rujak utawa lonthong balap
+wavs/jvf_06510_01374545027_filtered.wav|pitch/jvf_06510_01374545027_filtered.pt|kanca sak mejaku omahe ning tangerang
+wavs/jvf_09039_01125578896_filtered.wav|pitch/jvf_09039_01125578896_filtered.pt|floyd mayweather gak kapok ngantemi wong nang dhukur ring tinju
+wavs/jvf_02059_01978760820_filtered.wav|pitch/jvf_02059_01978760820_filtered.pt|mbak rumi nyimpen bakso enem_nou bungkus ten lemari wingking
+wavs/jvf_02059_01764820996_filtered.wav|pitch/jvf_02059_01764820996_filtered.pt|tas cilik sing tak nggo kondangan kae sophie martin lho
+wavs/jvf_06510_00286630009_filtered.wav|pitch/jvf_06510_00286630009_filtered.pt|miturut ceritane klenthèng_nou-temple sam po kong kuwi turunan saka dewa dewa
+wavs/jvf_06510_01812435320_filtered.wav|pitch/jvf_06510_01812435320_filtered.pt|kaos billabongku sing tukune bareng awakmu ika saiki wis suwek
+wavs/jvf_06510_01024171074_filtered.wav|pitch/jvf_06510_01024171074_filtered.pt|jodie foster pancet ngeyel nèk dudu dheke sing nyolong
+wavs/jvf_09039_00498652091_filtered.wav|pitch/jvf_09039_00498652091_filtered.pt|jeneng bruno mars kuwi jare kanca kancane bruno mars jeneng kuna
+wavs/jvf_02059_01345055345_filtered.wav|pitch/jvf_02059_01345055345_filtered.pt|rachel amanda nggarap tugas kuliah wiwit isuk nganti wengi
+wavs/jvf_06510_01774153847_filtered.wav|pitch/jvf_06510_01774153847_filtered.pt|wall street english dadi panggonan les lesan bahasa inggris sing apik sak jakarta
+wavs/jvf_02059_00330990911_filtered.wav|pitch/jvf_02059_00330990911_filtered.pt|ayame ibu ngendhog wolu gedhe gedhe
+wavs/jvf_09039_00831956173_filtered.wav|pitch/jvf_09039_00831956173_filtered.pt|angelina sondakh wis ngentekna wektu telung taun nang njero penjara
+wavs/jvf_09039_01969567638_filtered.wav|pitch/jvf_09039_01969567638_filtered.pt|omahku sing nang ndeso kuwi sandhing pabrik kia motors
+wavs/jvf_06510_01672686459_filtered.wav|pitch/jvf_06510_01672686459_filtered.pt|luis suarez diwanti wanti ambèk bojone supaya gak lirak lirik wedokan liya
+wavs/jvf_06510_02087184031_filtered.wav|pitch/jvf_06510_02087184031_filtered.pt|susu duren prodak saking kalimilk
+wavs/jvf_06510_00716730876_filtered.wav|pitch/jvf_06510_00716730876_filtered.pt|ora usah adoh adoh ning great barrier reef ning kene_adv-here ya akeh njeprah
+wavs/jvf_06510_01945128546_filtered.wav|pitch/jvf_06510_01945128546_filtered.pt|rezky aditya mendhet yatra gangsal atus yuta
+wavs/jvf_02059_01588326671_filtered.wav|pitch/jvf_02059_01588326671_filtered.pt|silihan dhuwit seka bank m_letter n_letter c_letter
+wavs/jvf_06510_00042740068_filtered.wav|pitch/jvf_06510_00042740068_filtered.pt|emma roberts njaitna klambi apik gawe buwuh nang rabine kancane
+wavs/jvf_06510_01030282451_filtered.wav|pitch/jvf_06510_01030282451_filtered.pt|apa sampeyan ora wedi dituntut karo look indonesia
+wavs/jvf_02059_01983954705_filtered.wav|pitch/jvf_02059_01983954705_filtered.pt|menapa badhe tindakan dhateng genuk
+wavs/jvf_06510_00947551075_filtered.wav|pitch/jvf_06510_00947551075_filtered.pt|yayasan obor indonesia saged dipadosi website ipun ten internet
+wavs/jvf_06510_00343896624_filtered.wav|pitch/jvf_06510_00343896624_filtered.pt|mariana renata wis arep rabi karo fahri nanging ra sida merga beda agamane
+wavs/jvf_09039_01591669139_filtered.wav|pitch/jvf_09039_01591669139_filtered.pt|paris hilton sakmenika dèrèng kantuk k_letter t_letter p_letter saking pemerentah
+wavs/jvf_06510_00618996331_filtered.wav|pitch/jvf_06510_00618996331_filtered.pt|kemal pahlevi mlintiri kertas siji siji sampe entek
+wavs/jvf_09039_01316509169_filtered.wav|pitch/jvf_09039_01316509169_filtered.pt|ikke nurjanah bar ditiliki anak bojone saka luar negeri
+wavs/jvf_09039_00795667191_filtered.wav|pitch/jvf_09039_00795667191_filtered.pt|napa stabilo niki angsal kula beta mantuk
+wavs/jvf_06510_00393415852_filtered.wav|pitch/jvf_06510_00393415852_filtered.pt|kula remen mirengake swaranipun donna harun ingkang ngobak toya
+wavs/jvf_02059_01050156555_filtered.wav|pitch/jvf_02059_01050156555_filtered.pt|numpak taksi wis rolas menit argone kok ora mangklih
+wavs/jvf_09039_01426913198_filtered.wav|pitch/jvf_09039_01426913198_filtered.pt|teza sumendra mbrebes mili pas krungu akeh wong mati
+wavs/jvf_09039_00246038515_filtered.wav|pitch/jvf_09039_00246038515_filtered.pt|nèk arep ngedol emas ning w_letter t_letter c_letter mangga dua diregani dhuwur
+wavs/jvf_09039_00065677732_filtered.wav|pitch/jvf_09039_00065677732_filtered.pt|wali sanga dimakamake ning demak
+wavs/jvf_02059_01060216059_filtered.wav|pitch/jvf_02059_01060216059_filtered.pt|machu picchu ki sakjane isine mung watu sing bentuke ora nggenah tapi ketok apik
+wavs/jvf_02059_00625842024_filtered.wav|pitch/jvf_02059_00625842024_filtered.pt|aku kok mesakna karo marvin gaye merga jenenge disalahgunakna
+wavs/jvf_06510_01345623716_filtered.wav|pitch/jvf_06510_01345623716_filtered.pt|warga desa badhe ngawontenaken musyawarah tanggal nembelas minggu ngajeng
+wavs/jvf_09039_02023765499_filtered.wav|pitch/jvf_09039_02023765499_filtered.pt|paklik mbukak warung ès ning taman kyai langgeng
+wavs/jvf_09039_02104970712_filtered.wav|pitch/jvf_09039_02104970712_filtered.pt|alase ponorogo digundhuli karo calo calo kayu
+wavs/jvf_06510_01407594259_filtered.wav|pitch/jvf_06510_01407594259_filtered.pt|anna kendrick mangkelna ati wong sak kampung merga gak isa teka nyanyi
+wavs/jvf_09039_00951197749_filtered.wav|pitch/jvf_09039_00951197749_filtered.pt|mau sore solat ning mesjid ning dhaerah petaling jaya
+wavs/jvf_09039_00497705322_filtered.wav|pitch/jvf_09039_00497705322_filtered.pt|arif njaluk tukokna sabuk anyar digawe upacara meneh
+wavs/jvf_06510_01778820078_filtered.wav|pitch/jvf_06510_01778820078_filtered.pt|garuda indonesia mabur saking tangerang dhateng bangka belitung wanci tiga langkung sekawan ndasa sonten
+wavs/jvf_02059_00108886926_filtered.wav|pitch/jvf_02059_00108886926_filtered.pt|lagu lagu rege kae asale soko jamaika
+wavs/jvf_06510_00739907185_filtered.wav|pitch/jvf_06510_00739907185_filtered.pt|tas chanel niki regine selangkung yuta
+wavs/jvf_02059_01029907004_filtered.wav|pitch/jvf_02059_01029907004_filtered.pt|apa ning bandhara sultan hassanudin ya
+wavs/jvf_09039_00984090559_filtered.wav|pitch/jvf_09039_00984090559_filtered.pt|stadion iki kapasitase enem_nou ewu penonton mangkane diarani stadion gedhe
+wavs/jvf_09039_01390707830_filtered.wav|pitch/jvf_09039_01390707830_filtered.pt|kesha gak gelem gelem temen dikongkon mangan jambu kluthuk
+wavs/jvf_06510_02124848935_filtered.wav|pitch/jvf_06510_02124848935_filtered.pt|ariel tatum menehi ali ali emas menyang teza
+wavs/jvf_02059_00535880146_filtered.wav|pitch/jvf_02059_00535880146_filtered.pt|jamuan sing wingi kae ngresmiake museum ing togo
+wavs/jvf_02059_01993457839_filtered.wav|pitch/jvf_02059_01993457839_filtered.pt|manajerku arep wisata menyang new york sesuk
+wavs/jvf_09039_01865117512_filtered.wav|pitch/jvf_09039_01865117512_filtered.pt|usia minimal yen arep ndaftar relawan iku patang puluh taun
+wavs/jvf_09039_01744527298_filtered.wav|pitch/jvf_09039_01744527298_filtered.pt|robert de niro iki ngono mbiyen seduluran apik ambèk aku
+wavs/jvf_06510_01853232134_filtered.wav|pitch/jvf_06510_01853232134_filtered.pt|roti o_letter rotinipun raos kopi
+wavs/jvf_06510_01247565751_filtered.wav|pitch/jvf_06510_01247565751_filtered.pt|kimberly rider didhawuhi kalih tiyang sepahe supaya mboten nedhi napa napa
+wavs/jvf_06510_00895890980_filtered.wav|pitch/jvf_06510_00895890980_filtered.pt|sepatu sing ana hake kae wae ning buccheri
+wavs/jvf_09039_02075576085_filtered.wav|pitch/jvf_09039_02075576085_filtered.pt|bedane karo pinjaman bank b_letter t_letter n_letter apa
+wavs/jvf_02059_00778038898_filtered.wav|pitch/jvf_02059_00778038898_filtered.pt|apemipun dikukus setunggal menit malih laminipun
+wavs/jvf_09039_01722116206_filtered.wav|pitch/jvf_09039_01722116206_filtered.pt|semene wis akeh diproduksi ning gresik
+wavs/jvf_09039_00615260895_filtered.wav|pitch/jvf_09039_00615260895_filtered.pt|oh iya ding ya hiroshima
+wavs/jvf_09039_01215849965_filtered.wav|pitch/jvf_09039_01215849965_filtered.pt|kula badhe ndadosaken josh groban réncang kula kagem donya kaliyan akhirat
+wavs/jvf_06510_01784350161_filtered.wav|pitch/jvf_06510_01784350161_filtered.pt|hadi angon wedhus ben sore sakdurunge budhal ngaji nang langgar
+wavs/jvf_09039_00781027319_filtered.wav|pitch/jvf_09039_00781027319_filtered.pt|uya kuya sakmenika nate nembang ing ngajenge obama
+wavs/jvf_09039_00414164589_filtered.wav|pitch/jvf_09039_00414164589_filtered.pt|niki sakmenika nomor tilpun griya kula enol tiga setunggal wolu gangsal wolu sanga sekawan setunggal tiga
+wavs/jvf_06510_01719496508_filtered.wav|pitch/jvf_06510_01719496508_filtered.pt|penerbangan seka kene_adv-here menyang wolverhampton kira kira patbelas jam luwih sithik
+wavs/jvf_06510_01139478972_filtered.wav|pitch/jvf_06510_01139478972_filtered.pt|s_letter c_letter t_letter v_letter kuwi bagian saka surya citra media
+wavs/jvf_06510_01118349026_filtered.wav|pitch/jvf_06510_01118349026_filtered.pt|jesse j_letter-en nuturi supaya kita sedaya mboten ngagung agungaken yatra kaliyan bandha
+wavs/jvf_09039_01875608014_filtered.wav|pitch/jvf_09039_01875608014_filtered.pt|menawi mboten kesupen mengke kula cathet ing pembukuan taun kalih ewu sewelas
+wavs/jvf_09039_01679703850_filtered.wav|pitch/jvf_09039_01679703850_filtered.pt|ibu ngasta tas awis damelanipun fendi
+wavs/jvf_02059_00440786757_filtered.wav|pitch/jvf_02059_00440786757_filtered.pt|mbah uti kangen kutha gombong
+wavs/jvf_09039_00574978730_filtered.wav|pitch/jvf_09039_00574978730_filtered.pt|penerbangan sing arep ditumpaki nia zulkarnaen iku jadwale jam wolu isuk
+wavs/jvf_02059_01867681440_filtered.wav|pitch/jvf_02059_01867681440_filtered.pt|manny pacquiao kudu lila kalah teka ali merga ali ancen lebih mantep
+wavs/jvf_06510_01795504046_filtered.wav|pitch/jvf_06510_01795504046_filtered.pt|pundhake chris martin kecokot tobil anake kadhal
+wavs/jvf_06510_00528986969_filtered.wav|pitch/jvf_06510_00528986969_filtered.pt|dakota johnson niki mboten saged dipenging panjalukipun
+wavs/jvf_06510_00975032053_filtered.wav|pitch/jvf_06510_00975032053_filtered.pt|tamara bleszynsky mendel mawon sakdugine saking bandhara
+wavs/jvf_06510_01837656022_filtered.wav|pitch/jvf_06510_01837656022_filtered.pt|kaca mripat rayban sampun dibeta dhateng parangtritis
+wavs/jvf_09039_02094290916_filtered.wav|pitch/jvf_09039_02094290916_filtered.pt|bocah bocah isa sinau perkara wayang ing museum wayang
+wavs/jvf_06510_01411054900_filtered.wav|pitch/jvf_06510_01411054900_filtered.pt|pinangan saking putra ingkang kagungan penerbit k_letter p_letter g_letter dipuntampi
+wavs/jvf_06510_00967440117_filtered.wav|pitch/jvf_06510_00967440117_filtered.pt|phnom penh mlebet peringkat sedasa kangge kutha ingkang resik lan sehat
+wavs/jvf_06510_01316069534_filtered.wav|pitch/jvf_06510_01316069534_filtered.pt|kafe sing nggo clubbing pating tlecek ning jimbaran
+wavs/jvf_09039_00781132944_filtered.wav|pitch/jvf_09039_00781132944_filtered.pt|kendrick lamar dipunparingi kathah kabegjan dhateng gusti allah
+wavs/jvf_09039_01954947227_filtered.wav|pitch/jvf_09039_01954947227_filtered.pt|ario bayu mantun mbikak kantor enggal ing jakarta
+wavs/jvf_06510_01816614632_filtered.wav|pitch/jvf_06510_01816614632_filtered.pt|jetstar mboten mbikak penerbangan dugi jakarta
+wavs/jvf_09039_00397776074_filtered.wav|pitch/jvf_09039_00397776074_filtered.pt|dasaran sadean rujak kangge mitoni mangke jam sekawan seprapat sonten
+wavs/jvf_09039_00481448648_filtered.wav|pitch/jvf_09039_00481448648_filtered.pt|chotim sak niki dados pegawe ten komunitas bambu
+wavs/jvf_06510_01741967962_filtered.wav|pitch/jvf_06510_01741967962_filtered.pt|kourtney kardashian bali menyang sidoarjo nitih sepeda montor
+wavs/jvf_06510_00556490299_filtered.wav|pitch/jvf_06510_00556490299_filtered.pt|arep nyelam ning kepulauan solomon
+wavs/jvf_06510_02120028726_filtered.wav|pitch/jvf_06510_02120028726_filtered.pt|panjenengan badhe tapa ten trenggalek
+wavs/jvf_06510_01072054838_filtered.wav|pitch/jvf_06510_01072054838_filtered.pt|ana adu sapi ning lumajang
+wavs/jvf_06510_00106356579_filtered.wav|pitch/jvf_06510_00106356579_filtered.pt|ana pabrik batubara ning cilegon
+wavs/jvf_06510_00697857466_filtered.wav|pitch/jvf_06510_00697857466_filtered.pt|mblenek aku ndelok raine mulan jameela
+wavs/jvf_06510_01003271900_filtered.wav|pitch/jvf_06510_01003271900_filtered.pt|koen jare arep nukokna aku tiket konsere panic at the disco
+wavs/jvf_06510_01845453914_filtered.wav|pitch/jvf_06510_01845453914_filtered.pt|produke wismilak group saiki wis rada ora payu
+wavs/jvf_09039_01354371000_filtered.wav|pitch/jvf_09039_01354371000_filtered.pt|ayamipun ibu ngendhog wolu ageng ageng
+wavs/jvf_06510_00683842593_filtered.wav|pitch/jvf_06510_00683842593_filtered.pt|menika lampu bangjo laminipun ngantos sewelas menit ngantos garing dipunpepe
+wavs/jvf_09039_01147063704_filtered.wav|pitch/jvf_09039_01147063704_filtered.pt|ya kowe wis luwih saka umur selawe nalika taun rong ewu wolu las
+wavs/jvf_02059_01941947411_filtered.wav|pitch/jvf_02059_01941947411_filtered.pt|wis ora betah nyambut gawe ning sari andara persada
+wavs/jvf_06510_02041387723_filtered.wav|pitch/jvf_06510_02041387723_filtered.pt|rafael nadal kalah maneh nang grand slam wimbledon taun iki
+wavs/jvf_06510_01108878861_filtered.wav|pitch/jvf_06510_01108878861_filtered.pt|monggo dipun pendet mawon rasukan saking new look niki
+wavs/jvf_09039_00620181519_filtered.wav|pitch/jvf_09039_00620181519_filtered.pt|parfum calvin klein iki ambune énak lho
+wavs/jvf_06510_00702748075_filtered.wav|pitch/jvf_06510_00702748075_filtered.pt|nadya hutagalung iki wis ayu pinter bahasa inggris sisan
+wavs/jvf_09039_00979438051_filtered.wav|pitch/jvf_09039_00979438051_filtered.pt|joe biden ditawani main filem dadi ksatria ngalengka
+wavs/jvf_09039_01208914841_filtered.wav|pitch/jvf_09039_01208914841_filtered.pt|wegah ah pas kae digawe kuciwa karo tikindo kok
+wavs/jvf_02059_01293752487_filtered.wav|pitch/jvf_02059_01293752487_filtered.pt|astuti wegah nukokna adhine sepatu anyar ben sasi
+wavs/jvf_06510_01973944599_filtered.wav|pitch/jvf_06510_01973944599_filtered.pt|aplikasi okcupid teng_prep handphone kula sampun kula busek
+wavs/jvf_09039_00032373228_filtered.wav|pitch/jvf_09039_00032373228_filtered.pt|buku buku fiksi nggo diwaca akeh didol ning pasar loak ning kutha armargh
+wavs/jvf_09039_00556396230_filtered.wav|pitch/jvf_09039_00556396230_filtered.pt|kula mboten nate mireng sing namine delta air lines
+wavs/jvf_06510_00366381915_filtered.wav|pitch/jvf_06510_00366381915_filtered.pt|menawi komikipun kakang kula terbitan saking elex media komputindo
+wavs/jvf_06510_01556162374_filtered.wav|pitch/jvf_06510_01556162374_filtered.pt|tanah karo sampun diwarisaken saking leluhur jaman rumiyin
+wavs/jvf_02059_01896616920_filtered.wav|pitch/jvf_02059_01896616920_filtered.pt|danone iku ket_nou mbiyen perusahaan sing wis kondhang nang kalangan internasional
+wavs/jvf_06510_00402589291_filtered.wav|pitch/jvf_06510_00402589291_filtered.pt|jam telu isuk bapak wis tangi arep nindaake solat tahajud
+wavs/jvf_06510_01914197895_filtered.wav|pitch/jvf_06510_01914197895_filtered.pt|snapchat niku radi angel gegaweane
+wavs/jvf_09039_01793263928_filtered.wav|pitch/jvf_09039_01793263928_filtered.pt|toya zam zam badhe dipunekspor dhateng serbia
+wavs/jvf_06510_00890875299_filtered.wav|pitch/jvf_06510_00890875299_filtered.pt|saka terminal aku nyarter taksi gemah ripah tekan kosan
+wavs/jvf_09039_01023337254_filtered.wav|pitch/jvf_09039_01023337254_filtered.pt|gilang ramadhan mikul beban akeh nang kulawargane
+wavs/jvf_06510_01000253752_filtered.wav|pitch/jvf_06510_01000253752_filtered.pt|penerbit transmedia punika anak perusahaan pak harry
+wavs/jvf_09039_00623050385_filtered.wav|pitch/jvf_09039_00623050385_filtered.pt|primus yustisio tumut rombonganipun presiden
+wavs/jvf_09039_01499678485_filtered.wav|pitch/jvf_09039_01499678485_filtered.pt|mesakake rio febrian ditinggal dhewean nang njero gudang
+wavs/jvf_09039_01402255626_filtered.wav|pitch/jvf_09039_01402255626_filtered.pt|ningsih wis pengen ndang cepet_adj dilamar ambèk gendhakane
+wavs/jvf_02059_02029707105_filtered.wav|pitch/jvf_02059_02029707105_filtered.pt|bob marley iki ngunu wis gak onok dadi kowe gak usah nggoleki maneh
+wavs/jvf_06510_00090231327_filtered.wav|pitch/jvf_06510_00090231327_filtered.pt|apa tahu sumedang kuwi pancen seka sumedang
+wavs/jvf_06510_00480610087_filtered.wav|pitch/jvf_06510_00480610087_filtered.pt|wak kaji niku nedhi ijol setunggal atus yuta damel montore ingkang kelindes
+wavs/jvf_06510_01178051907_filtered.wav|pitch/jvf_06510_01178051907_filtered.pt|kerajaanipun badhe diserang musuhipun nagari gowa
+wavs/jvf_09039_01223538673_filtered.wav|pitch/jvf_09039_01223538673_filtered.pt|ngurmati peresmiane wika realty ning gedhung
+wavs/jvf_06510_00903337438_filtered.wav|pitch/jvf_06510_00903337438_filtered.pt|ngekos ning kebayoran baru ora aman
+wavs/jvf_06510_01282997127_filtered.wav|pitch/jvf_06510_01282997127_filtered.pt|mangan sop iga sapi ning pelabuhan cedhak kota malaka
+wavs/jvf_02059_00527981165_filtered.wav|pitch/jvf_02059_00527981165_filtered.pt|menawi tasih mboten sreg njenengan saged kandha teng_prep kantor pusate pearson
+wavs/jvf_06510_01507573736_filtered.wav|pitch/jvf_06510_01507573736_filtered.pt|teddy syah niku idepe tumenga ing tawang
+wavs/jvf_09039_01167311144_filtered.wav|pitch/jvf_09039_01167311144_filtered.pt|ana kecelakaan ning mumbai wingi awan
+wavs/jvf_06510_00276305383_filtered.wav|pitch/jvf_06510_00276305383_filtered.pt|winona ryder iki mbiyen tau katresnan karo adi
+wavs/jvf_06510_01753445641_filtered.wav|pitch/jvf_06510_01753445641_filtered.pt|ramzy takon apa bener anake lawa iku jenenge kampret
+wavs/jvf_09039_00183149296_filtered.wav|pitch/jvf_09039_00183149296_filtered.pt|kapan honda ngetokna montor modelan paling anyar
+wavs/jvf_02059_02045178848_filtered.wav|pitch/jvf_02059_02045178848_filtered.pt|arif njaluk tukokna sabuk anyar digawe upacara mené_adv-time
+wavs/jvf_09039_00101535829_filtered.wav|pitch/jvf_09039_00101535829_filtered.pt|tuku donat karo kopi ning j_letter co donuts
+wavs/jvf_02059_01822807389_filtered.wav|pitch/jvf_02059_01822807389_filtered.pt|p_letter t_letter bintang todjoe saiki wis ora ngetokake puyer obat mumet
+wavs/jvf_06510_01652914984_filtered.wav|pitch/jvf_06510_01652914984_filtered.pt|ya kira kira telung jam tekan cipanas
+wavs/jvf_09039_01331933443_filtered.wav|pitch/jvf_09039_01331933443_filtered.pt|klambine shareena rizky dikrikiti tikus nganti bolong gedhe
+wavs/jvf_09039_00354756552_filtered.wav|pitch/jvf_09039_00354756552_filtered.pt|wonten night market ten dalanan baraga mengke dalu
+wavs/jvf_09039_01237769405_filtered.wav|pitch/jvf_09039_01237769405_filtered.pt|lha kuwi dheweke lair lan gedhe ning manchester
+wavs/jvf_06510_01278760061_filtered.wav|pitch/jvf_06510_01278760061_filtered.pt|ine febriyanti sakmenika dèrèng nate mirsani pagelaran wayang
+wavs/jvf_06510_00586081378_filtered.wav|pitch/jvf_06510_00586081378_filtered.pt|robin thicke mantun kirim donga dhateng jisiminipun pakdhene
+wavs/jvf_06510_00882807793_filtered.wav|pitch/jvf_06510_00882807793_filtered.pt|aku nembe ngerti ana sing jenenge honduras ning donya iki
+wavs/jvf_06510_00184954372_filtered.wav|pitch/jvf_06510_00184954372_filtered.pt|indra herlambang didukani ramane sabanjure mboten nate mantuk
+wavs/jvf_09039_01354745219_filtered.wav|pitch/jvf_09039_01354745219_filtered.pt|aku njaluk tulung nang richard burton gawe nakokna barang ilang
+wavs/jvf_09039_00911496403_filtered.wav|pitch/jvf_09039_00911496403_filtered.pt|christ lauren nedhi tulung supaya kula mboten trisna malih dhateng piyambakipun
+wavs/jvf_06510_01132433374_filtered.wav|pitch/jvf_06510_01132433374_filtered.pt|sarah sechan iki isok ae nggawe wong ngguyu kepingkel pingkel
+wavs/jvf_06510_00769253010_filtered.wav|pitch/jvf_06510_00769253010_filtered.pt|justin timberlake ngarit nang sawah isuk awan sore bengi
+wavs/jvf_06510_02032925964_filtered.wav|pitch/jvf_06510_02032925964_filtered.pt|yoshinoya nyediakno masakan jepang semisale yakiniku lan teriyaki
+wavs/jvf_06510_00611109959_filtered.wav|pitch/jvf_06510_00611109959_filtered.pt|bupati kajen saiki wis ganti anyar
+wavs/jvf_06510_00612065567_filtered.wav|pitch/jvf_06510_00612065567_filtered.pt|mike mohede arang nyanyi nang gereja amarga ora diundang
+wavs/jvf_06510_02125437826_filtered.wav|pitch/jvf_06510_02125437826_filtered.pt|mangke wangsulipun miyos kantor dunia tera
+wavs/jvf_09039_01265335052_filtered.wav|pitch/jvf_09039_01265335052_filtered.pt|ngandhapan ingkang werni jambon niku produksi screamous
+wavs/jvf_09039_01004757372_filtered.wav|pitch/jvf_09039_01004757372_filtered.pt|red velvet mbideg ae pas ditakoni apa bener arep bubar dhewe dhewe
+wavs/jvf_02059_00392104802_filtered.wav|pitch/jvf_02059_00392104802_filtered.pt|saben setunggal meter wonten bangunan alfamart
+wavs/jvf_09039_00766975375_filtered.wav|pitch/jvf_09039_00766975375_filtered.pt|mambet anyir menawi ing tana toraja
+wavs/jvf_09039_01088312985_filtered.wav|pitch/jvf_09039_01088312985_filtered.pt|demam berdarah wis tekan sorong
+wavs/jvf_09039_01447141786_filtered.wav|pitch/jvf_09039_01447141786_filtered.pt|pelem bumiayu rasane legine pol
+wavs/jvf_02059_00799374247_filtered.wav|pitch/jvf_02059_00799374247_filtered.pt|ana kaca sing ditutupi mori ning keraton ngayogyakarta hadiningrat
+wavs/jvf_09039_01371851446_filtered.wav|pitch/jvf_09039_01371851446_filtered.pt|ayo rek nyambangi david letterman nang puskesmas sukadana
+wavs/jvf_09039_00781470702_filtered.wav|pitch/jvf_09039_00781470702_filtered.pt|jan jane priye ta ritual sing kaping pitu
+wavs/jvf_06510_00359430962_filtered.wav|pitch/jvf_06510_00359430962_filtered.pt|sultan djorghi menek wit kelapa ngundhuh wohe mau subuh
+wavs/jvf_06510_00725525767_filtered.wav|pitch/jvf_06510_00725525767_filtered.pt|gedhung sentral senayan loro nduwe rong puluh lantai
+wavs/jvf_02059_01068690109_filtered.wav|pitch/jvf_02059_01068690109_filtered.pt|arep ngapa ning taman nasional sagarmartha
+wavs/jvf_06510_01527375117_filtered.wav|pitch/jvf_06510_01527375117_filtered.pt|badhe tindak dhateng octagon studion kapan kinten kinten
+wavs/jvf_09039_01343302841_filtered.wav|pitch/jvf_09039_01343302841_filtered.pt|jake gyllenhaal ngentosi sedherekipun dugi saking kutha malang
+wavs/jvf_09039_00118370747_filtered.wav|pitch/jvf_09039_00118370747_filtered.pt|sikilku pegel nggo mlaku manjat tembok raksasa tiongkok ora bubar bubar
+wavs/jvf_02059_01640356048_filtered.wav|pitch/jvf_02059_01640356048_filtered.pt|pas arep munggah agra mas aku kepengkok amarga lunyu bar udan
+wavs/jvf_06510_02018703282_filtered.wav|pitch/jvf_06510_02018703282_filtered.pt|bocah cilik ning kudus wis lumrah karo sing arane rokok lan mbako
+wavs/jvf_09039_01755081146_filtered.wav|pitch/jvf_09039_01755081146_filtered.pt|keith urban marut kelapa ngewangi bojone masak jangan lodeh
+wavs/jvf_06510_01470700220_filtered.wav|pitch/jvf_06510_01470700220_filtered.pt|jebul berrybenka kuwi asli njero negri
+wavs/jvf_02059_00912980070_filtered.wav|pitch/jvf_02059_00912980070_filtered.pt|samuel rizal dipun dhawuhi kaliyan tiyang kathah
+wavs/jvf_09039_00375632843_filtered.wav|pitch/jvf_09039_00375632843_filtered.pt|morgan oey mangsuli rangga supaya kedhah kesusu rumiyin
+wavs/jvf_06510_01359292471_filtered.wav|pitch/jvf_06510_01359292471_filtered.pt|ramon y_letter tungka isih ketok koyok arek cilik masio anake wis loro
+wavs/jvf_09039_01111400482_filtered.wav|pitch/jvf_09039_01111400482_filtered.pt|kaping gangsal nindaaken haji
+wavs/jvf_09039_01638734805_filtered.wav|pitch/jvf_09039_01638734805_filtered.pt|dewi ngelake pol sakwise mlayu muteri lapangan sekolah
+wavs/jvf_09039_01456881204_filtered.wav|pitch/jvf_09039_01456881204_filtered.pt|shawn mendes mlebet dados nominatoripun grammy awards
+wavs/jvf_02059_01572197655_filtered.wav|pitch/jvf_02059_01572197655_filtered.pt|mbake rizky nasar kerja nang nggonane kantorku
+wavs/jvf_06510_01952458095_filtered.wav|pitch/jvf_06510_01952458095_filtered.pt|njero bis a_letter l_letter s_letter mambune pesing ambring
+wavs/jvf_06510_01967280337_filtered.wav|pitch/jvf_06510_01967280337_filtered.pt|oppo iku perusahaan anyar sing kudu diperhitungna juga
+wavs/jvf_06510_01418895180_filtered.wav|pitch/jvf_06510_01418895180_filtered.pt|delon ora mesakke blas marang wong tuwa lan adhi adhine
+wavs/jvf_09039_00111048686_filtered.wav|pitch/jvf_09039_00111048686_filtered.pt|sing ngati ngati yen urip ning india amarga akeh maling
+wavs/jvf_09039_00899633595_filtered.wav|pitch/jvf_09039_00899633595_filtered.pt|neutron kagunganipun priyayi jogja
+wavs/jvf_06510_02101983754_filtered.wav|pitch/jvf_06510_02101983754_filtered.pt|nggih limrahipun si kaping enem_nou
+wavs/jvf_06510_01284310066_filtered.wav|pitch/jvf_06510_01284310066_filtered.pt|apa jik ana sisa kursi gawe penerbangan qatar airways nang jeddah dina iki
+wavs/jvf_06510_02049216226_filtered.wav|pitch/jvf_06510_02049216226_filtered.pt|adera niki salah sawijining penyanyi ingkang bagus rupanipun
+wavs/jvf_09039_01430824234_filtered.wav|pitch/jvf_09039_01430824234_filtered.pt|cedhake ya ana tamrin city sing isine meh padha
+wavs/jvf_09039_00804777919_filtered.wav|pitch/jvf_09039_00804777919_filtered.pt|ndang solat zuhur wis jam setengah loro awan sedilut meneh asar
+wavs/jvf_09039_01762876516_filtered.wav|pitch/jvf_09039_01762876516_filtered.pt|langgananku si sinar jaya awit pertama
+wavs/jvf_09039_01628693328_filtered.wav|pitch/jvf_09039_01628693328_filtered.pt|astuti wegah nukokna adhine sepatu anyar ben sasi
+wavs/jvf_06510_02012740141_filtered.wav|pitch/jvf_06510_02012740141_filtered.pt|lily allen nyengklak sepeda budal tuku roti nang pasar
+wavs/jvf_06510_01692097276_filtered.wav|pitch/jvf_06510_01692097276_filtered.pt|dita bar tuku klambi njoboan nang bershka
+wavs/jvf_09039_01211955186_filtered.wav|pitch/jvf_09039_01211955186_filtered.pt|wingi masuk angin terus tak ombeni madu saka jamu air mancur
+wavs/jvf_06510_00766312307_filtered.wav|pitch/jvf_06510_00766312307_filtered.pt|mira lesmana umbah umbah dhisik banjur isah isah piring
+wavs/jvf_09039_00289169310_filtered.wav|pitch/jvf_09039_00289169310_filtered.pt|masakane holycow steak mantep tur nggawe kemaningen
+wavs/jvf_06510_01860788587_filtered.wav|pitch/jvf_06510_01860788587_filtered.pt|vanessa angel nggadhahi grana ingkang ngundhup mlati uga lathi ingkang nyigar jambe
+wavs/jvf_02059_01392958331_filtered.wav|pitch/jvf_02059_01392958331_filtered.pt|stadion iki kapasitase enem_nou ewu penonton mangkane diarani stadion gedhe
+wavs/jvf_09039_01709056979_filtered.wav|pitch/jvf_09039_01709056979_filtered.pt|apa arep mlebu padangbara sukses makmur
+wavs/jvf_06510_01565016343_filtered.wav|pitch/jvf_06510_01565016343_filtered.pt|annisa trihapsari mutusna nganggo jilbab sakwise dipek_vrb-take bojo sutan
+wavs/jvf_09039_01641808013_filtered.wav|pitch/jvf_09039_01641808013_filtered.pt|etude house niku anakipun perusahaan amore pacific
+wavs/jvf_09039_01871138859_filtered.wav|pitch/jvf_09039_01871138859_filtered.pt|korea selatan wis maju artise
+wavs/jvf_06510_01699237206_filtered.wav|pitch/jvf_06510_01699237206_filtered.pt|ikang fawzi cekelan tiyang merga bingung karepe dhewe
+wavs/jvf_06510_01951039387_filtered.wav|pitch/jvf_06510_01951039387_filtered.pt|amit amit dhisik yen mlebu tol padalarang
+wavs/jvf_09039_00410358158_filtered.wav|pitch/jvf_09039_00410358158_filtered.pt|lin dan sampek saiki ijik durung isok dikalahna ambèk sapa sapa
+wavs/jvf_06510_02121876402_filtered.wav|pitch/jvf_06510_02121876402_filtered.pt|riyaya besar mangke badhe nyembeleh kurban pinten budhe
+wavs/jvf_06510_01898622932_filtered.wav|pitch/jvf_06510_01898622932_filtered.pt|roger federer punika dipundhèrèkaken lès tenis kaliyan ibune
+wavs/jvf_02059_01826304936_filtered.wav|pitch/jvf_02059_01826304936_filtered.pt|jay z_letter sadeyan teng_prep peken nanging mboten enten_adj ingkang tumbas
+wavs/jvf_06510_00306625863_filtered.wav|pitch/jvf_06510_00306625863_filtered.pt|kopi kopi metunane kapal api group paite ora memper
+wavs/jvf_06510_00388362370_filtered.wav|pitch/jvf_06510_00388362370_filtered.pt|iku temenan ta laptop merek lenovo
+wavs/jvf_06510_00569606896_filtered.wav|pitch/jvf_06510_00569606896_filtered.pt|pasar slawi badhe dipunrehab dening gubernur jawa tengah
+wavs/jvf_02059_00587707695_filtered.wav|pitch/jvf_02059_00587707695_filtered.pt|reginipun wos inggil ing sasi februari
+wavs/jvf_02059_00973665012_filtered.wav|pitch/jvf_02059_00973665012_filtered.pt|kan isih ana masalah p_letter t_letter transjakarta karo ahok
+wavs/jvf_09039_01160772014_filtered.wav|pitch/jvf_09039_01160772014_filtered.pt|wernane mobile taksi putra nyaru karo sing biru kae
+wavs/jvf_09039_01886915161_filtered.wav|pitch/jvf_09039_01886915161_filtered.pt|iwak laut ten ikan bakar cianjur radi anyir lan taksih alot
+wavs/jvf_02059_01737347308_filtered.wav|pitch/jvf_02059_01737347308_filtered.pt|deknen ketampa kuliah ning akitaka
+wavs/jvf_06510_00183187280_filtered.wav|pitch/jvf_06510_00183187280_filtered.pt|sing werna putih kae nggon express group
+wavs/jvf_06510_01264566812_filtered.wav|pitch/jvf_06510_01264566812_filtered.pt|agemanipun dijait kalih tiyang jembrana
+wavs/jvf_09039_01091460656_filtered.wav|pitch/jvf_09039_01091460656_filtered.pt|shandy aulia dipun sukani yuga ingkang sregep uga bagus
+wavs/jvf_02059_01354677121_filtered.wav|pitch/jvf_02059_01354677121_filtered.pt|pinten regi sewengi nginep teng_prep hotel hyatt
+wavs/jvf_09039_02061474154_filtered.wav|pitch/jvf_09039_02061474154_filtered.pt|thomas djorghi iku penyanyi kelairan ro las juni sanga las seket_nou-num papat
+wavs/jvf_09039_01670734614_filtered.wav|pitch/jvf_09039_01670734614_filtered.pt|esemipun sule kados madu pinastika
+wavs/jvf_06510_01562985896_filtered.wav|pitch/jvf_06510_01562985896_filtered.pt|avril lavigne dikongkon wong sak kampung mbangun mesjid
+wavs/jvf_06510_00452206538_filtered.wav|pitch/jvf_06510_00452206538_filtered.pt|pasang saham ning klenger burger
+wavs/jvf_09039_01070898763_filtered.wav|pitch/jvf_09039_01070898763_filtered.pt|malaysia airlines niku arang arang menehi diskon dhateng penumpang
+wavs/jvf_06510_00877803470_filtered.wav|pitch/jvf_06510_00877803470_filtered.pt|sampeyan sampun ngrantosi mel gibson mantuk dhateng griya
+wavs/jvf_09039_00656758906_filtered.wav|pitch/jvf_09039_00656758906_filtered.pt|nyarenipun ten hotel dhaerah malabar
+wavs/jvf_06510_01596021967_filtered.wav|pitch/jvf_06510_01596021967_filtered.pt|sampeyan mboten usah ngangkat telpon saking nomer niki enol wolu siji lima enem_nou pitu wolu enol papat lima telu loro
+wavs/jvf_06510_00186664851_filtered.wav|pitch/jvf_06510_00186664851_filtered.pt|yen ngliwati kendal aja lali uluk salam
+wavs/jvf_09039_01587079355_filtered.wav|pitch/jvf_09039_01587079355_filtered.pt|sing putih ana barete biru oranye kae nggon rosalia indah
+wavs/jvf_09039_01509882154_filtered.wav|pitch/jvf_09039_01509882154_filtered.pt|menawi payakumbuh kinten kinten dhateng bandhara sedinten sewengi
+wavs/jvf_09039_01138388711_filtered.wav|pitch/jvf_09039_01138388711_filtered.pt|kasut pumamu kok ngreyen ngunu rek
+wavs/jvf_06510_01193372451_filtered.wav|pitch/jvf_06510_01193372451_filtered.pt|aku ora wani yen dikongkon lunga ning worcester dhewekan
+wavs/jvf_06510_00645317126_filtered.wav|pitch/jvf_06510_00645317126_filtered.pt|adus banyu laut reged ning ancol dadi gatel dhadhane
+wavs/jvf_06510_02044775407_filtered.wav|pitch/jvf_06510_02044775407_filtered.pt|misananku arep daftar dadi pramugarine korean air
+wavs/jvf_02059_01672183671_filtered.wav|pitch/jvf_02059_01672183671_filtered.pt|kan ronaldo bocah asli portugal
+wavs/jvf_09039_00177615249_filtered.wav|pitch/jvf_09039_00177615249_filtered.pt|siaran radio kala wingi nayangaken diskusi kalih direktur p_letter t_letter torabika
+wavs/jvf_09039_01772961669_filtered.wav|pitch/jvf_09039_01772961669_filtered.pt|belerang ing gunung tangkuban prau ambune nyegrak
+wavs/jvf_09039_00014955169_filtered.wav|pitch/jvf_09039_00014955169_filtered.pt|kowe arep ndaftar produser ning citra sinema
+wavs/jvf_06510_00818576810_filtered.wav|pitch/jvf_06510_00818576810_filtered.pt|bojone cathy sharon nyeleweng ambèk kanca idheke dhewe
+wavs/jvf_06510_02096664388_filtered.wav|pitch/jvf_06510_02096664388_filtered.pt|hotel fairmont masang standar inggil sanget damel ukuran tiyang mriki
+wavs/jvf_06510_01840236628_filtered.wav|pitch/jvf_06510_01840236628_filtered.pt|aku cilike urip ning islamabad dadi isih latian ngomong jawa lan indonesia sithik sithik
+wavs/jvf_09039_01348108451_filtered.wav|pitch/jvf_09039_01348108451_filtered.pt|s_letter k_letter loro iki jan manjur tenan nang raiku
+wavs/jvf_06510_00635957286_filtered.wav|pitch/jvf_06510_00635957286_filtered.pt|gudel sing kaping papat paling seger buger
+wavs/jvf_02059_00123252621_filtered.wav|pitch/jvf_02059_00123252621_filtered.pt|njajala tuku dukuran nang alibaba minggu ngarep
+wavs/jvf_09039_00941841783_filtered.wav|pitch/jvf_09039_00941841783_filtered.pt|aku wis ora tahu mbukak emailku sing yahoo maneh
+wavs/jvf_02059_02118761918_filtered.wav|pitch/jvf_02059_02118761918_filtered.pt|nggih ès duren ten liverpool niku
+wavs/jvf_06510_00312936323_filtered.wav|pitch/jvf_06510_00312936323_filtered.pt|minahasa punika dipilah dados pinten bagian
+wavs/jvf_06510_00296155438_filtered.wav|pitch/jvf_06510_00296155438_filtered.pt|ngedol perhiasaan ning antam
+wavs/jvf_02059_01273006263_filtered.wav|pitch/jvf_02059_01273006263_filtered.pt|ana pilihan basa inggris ning website tiket dot com
+wavs/jvf_09039_00421507946_filtered.wav|pitch/jvf_09039_00421507946_filtered.pt|lha jare siswane ana pitung puluh
+wavs/jvf_06510_01146028292_filtered.wav|pitch/jvf_06510_01146028292_filtered.pt|siti sampun mboten nate tumbas sekul pecel_nou malih
+wavs/jvf_06510_00726296151_filtered.wav|pitch/jvf_06510_00726296151_filtered.pt|awakmu iku ya ojok ngono lhak sakna matt leblanc seh_nou
+wavs/jvf_06510_01504951464_filtered.wav|pitch/jvf_06510_01504951464_filtered.pt|sarkem kuwi posisine ning sebelah stasiun tugu metu sithik
+wavs/jvf_09039_01635482421_filtered.wav|pitch/jvf_09039_01635482421_filtered.pt|teuku rasya niki tasih enem_adj sampun mbintangi kathah filem
+wavs/jvf_09039_00618072399_filtered.wav|pitch/jvf_09039_00618072399_filtered.pt|lemah ngarep iku arep takdol limang miliar nang wak kaji
+wavs/jvf_06510_00822238141_filtered.wav|pitch/jvf_06510_00822238141_filtered.pt|mat solar niki sak menika mboten sinten sinten ing mriki
+wavs/jvf_09039_01306597052_filtered.wav|pitch/jvf_09039_01306597052_filtered.pt|cakra khan mari difoto nang pinggire danau kemuning
+wavs/jvf_06510_00297377287_filtered.wav|pitch/jvf_06510_00297377287_filtered.pt|yen isuk gunung bromo katon kaya kutha ning ndhuwur awan
+wavs/jvf_06510_02029574187_filtered.wav|pitch/jvf_06510_02029574187_filtered.pt|munggah jembatan trus nyabrang ning ngarep plaza semanggi
+wavs/jvf_06510_00750350308_filtered.wav|pitch/jvf_06510_00750350308_filtered.pt|ricky harun sampun kondhang amargi watake ingkang andhap asor
+wavs/jvf_09039_01550924687_filtered.wav|pitch/jvf_09039_01550924687_filtered.pt|ashley olsen dipunjodohake kalih pak kyai ingkang lulusan pondok
+wavs/jvf_09039_00333161195_filtered.wav|pitch/jvf_09039_00333161195_filtered.pt|montor mabure njebluk ning bandhara internasional taoyuan
+wavs/jvf_06510_00369816568_filtered.wav|pitch/jvf_06510_00369816568_filtered.pt|ora entuk nganggo kudung pas ning istanbul
+wavs/jvf_06510_01200540625_filtered.wav|pitch/jvf_06510_01200540625_filtered.pt|turunane saiki podo manggon ning johor bahru
+wavs/jvf_06510_00502913287_filtered.wav|pitch/jvf_06510_00502913287_filtered.pt|yadi timo mlebet teng_prep griya mboten mbeta napa napa
+wavs/jvf_09039_00521346670_filtered.wav|pitch/jvf_09039_00521346670_filtered.pt|nembe tak entas wolulas menit mau tapi durung adhem bakwane
+wavs/jvf_09039_00646939926_filtered.wav|pitch/jvf_09039_00646939926_filtered.pt|numpak prau karo mangan putu ayu ning banjarmasin
+wavs/jvf_09039_01072416822_filtered.wav|pitch/jvf_09039_01072416822_filtered.pt|bolu kartika sari empuk tur pulen
+wavs/jvf_09039_00894533824_filtered.wav|pitch/jvf_09039_00894533824_filtered.pt|ben affleck ngeling eling mbiyen jamane angon wedhus satus
+wavs/jvf_06510_00319405227_filtered.wav|pitch/jvf_06510_00319405227_filtered.pt|aishwarya rai kagungan plataran ingkang ageng sanget
+wavs/jvf_06510_01514769176_filtered.wav|pitch/jvf_06510_01514769176_filtered.pt|minyak wangi casablanca mambune ora pati énak
+wavs/jvf_09039_00691869137_filtered.wav|pitch/jvf_09039_00691869137_filtered.pt|saiki dadi teller bank mandiri ta
+wavs/jvf_09039_01308721624_filtered.wav|pitch/jvf_09039_01308721624_filtered.pt|jennifer lopez sampun ngarep ngarep dhahar lupis mengke sonten
+wavs/jvf_06510_01294466973_filtered.wav|pitch/jvf_06510_01294466973_filtered.pt|upacara ngaben biasa akeh ning tabanan
+wavs/jvf_09039_01010285877_filtered.wav|pitch/jvf_09039_01010285877_filtered.pt|oto lawas iki mereke isuzu panther
+wavs/jvf_06510_01520664772_filtered.wav|pitch/jvf_06510_01520664772_filtered.pt|cilikan kula mboten nate dijak nedha es krim teng_prep cold stone
+wavs/jvf_09039_00142948332_filtered.wav|pitch/jvf_09039_00142948332_filtered.pt|jare perdana mentri tunisia ki karepe apa
+wavs/jvf_02059_01734030575_filtered.wav|pitch/jvf_02059_01734030575_filtered.pt|omahku sing nang ndesa kuwi sandhing pabrik k_letter i_letter a_letter motor
+wavs/jvf_09039_00180206853_filtered.wav|pitch/jvf_09039_00180206853_filtered.pt|jan tenan antrine ora lumrah nggawe mbedhegel ning pelabuhan merak
+wavs/jvf_06510_01098141348_filtered.wav|pitch/jvf_06510_01098141348_filtered.pt|mark zuckerberg iku sing ngedegna facebook tahun rong ewu papat
+wavs/jvf_06510_01954004841_filtered.wav|pitch/jvf_06510_01954004841_filtered.pt|bella safhira tuku wedhak nang pasar malem
+wavs/jvf_06510_00262732670_filtered.wav|pitch/jvf_06510_00262732670_filtered.pt|lamaran seka doktere kira kira akhir taun rong ewu pitulas
+wavs/jvf_09039_00393787286_filtered.wav|pitch/jvf_09039_00393787286_filtered.pt|mambengi ana tabrakan pesawat ning bandhara ahmad yani
+wavs/jvf_06510_00658246591_filtered.wav|pitch/jvf_06510_00658246591_filtered.pt|mbok an ana tiket gratis nggo ning istana versailles
+wavs/jvf_06510_01396856313_filtered.wav|pitch/jvf_06510_01396856313_filtered.pt|jarak sleman kaliyan bantul radi tebih
+wavs/jvf_06510_01283439064_filtered.wav|pitch/jvf_06510_01283439064_filtered.pt|sabun pasuryan sebam sampun terkenal dhateng pundi pundi
+wavs/jvf_09039_00991372627_filtered.wav|pitch/jvf_09039_00991372627_filtered.pt|modem huawei iki cepete jan koyok kilat
+wavs/jvf_06510_00690037051_filtered.wav|pitch/jvf_06510_00690037051_filtered.pt|gunung ciremai ditunggoni karo penguasa laut kidul
+wavs/jvf_09039_00476071365_filtered.wav|pitch/jvf_09039_00476071365_filtered.pt|airbus ki tukang gawe pesawat sing gedhe gedhe bodine
+wavs/jvf_06510_01583519023_filtered.wav|pitch/jvf_06510_01583519023_filtered.pt|mbahku sewengi ngimpi isa tuku montor mercedes benz
+wavs/jvf_09039_00493136508_filtered.wav|pitch/jvf_09039_00493136508_filtered.pt|ayame ibu ngendog wolu gedhe gedhe
+wavs/jvf_06510_00458466685_filtered.wav|pitch/jvf_06510_00458466685_filtered.pt|kepingin ndelok sunrise ning bukit barisan
+wavs/jvf_09039_00361802398_filtered.wav|pitch/jvf_09039_00361802398_filtered.pt|kancaku nduwe omah ning alabama
+wavs/jvf_06510_00585451595_filtered.wav|pitch/jvf_06510_00585451595_filtered.pt|penerbit mizan mulai ngumumaken lomba adzan
+wavs/jvf_06510_00500012595_filtered.wav|pitch/jvf_06510_00500012595_filtered.pt|nikita willy iki pawakane endhek lemu koyok aku
+wavs/jvf_09039_01015045635_filtered.wav|pitch/jvf_09039_01015045635_filtered.pt|sampo ning rudy hadisuwarno salon sak paket karo pelembape
+wavs/jvf_09039_00290648261_filtered.wav|pitch/jvf_09039_00290648261_filtered.pt|acara apik sing disiarna h_letter b_letter o_letter kuwi apa ae ya
+wavs/jvf_09039_00083649205_filtered.wav|pitch/jvf_09039_00083649205_filtered.pt|ana lukisan gambar driji puthul ning abuba steak
+wavs/jvf_06510_00148748725_filtered.wav|pitch/jvf_06510_00148748725_filtered.pt|supire safari dharma raya ora liren sak dawane dalan
+wavs/jvf_06510_00415481074_filtered.wav|pitch/jvf_06510_00415481074_filtered.pt|aku kok mblenek ndelok gayane dian sastro iki
+wavs/jvf_09039_01656633433_filtered.wav|pitch/jvf_09039_01656633433_filtered.pt|pabrik listrik ten kosovo sampun bangkrut
+wavs/jvf_09039_00480288336_filtered.wav|pitch/jvf_09039_00480288336_filtered.pt|pas rejeb akeh wong panen bayem lan sawi
+wavs/jvf_06510_00795963157_filtered.wav|pitch/jvf_06510_00795963157_filtered.pt|sing mbiyen kae ki apa hirosaki
+wavs/jvf_09039_01336196220_filtered.wav|pitch/jvf_09039_01336196220_filtered.pt|pahlawan ingkang pejah wonten ing maluku sinten
+wavs/jvf_06510_00043847166_filtered.wav|pitch/jvf_06510_00043847166_filtered.pt|kuwi nexian asli apa palsu
+wavs/jvf_06510_01730683508_filtered.wav|pitch/jvf_06510_01730683508_filtered.pt|lha ramayana pusate ditelfon wae
+wavs/jvf_09039_01463053275_filtered.wav|pitch/jvf_09039_01463053275_filtered.pt|usahane bangkrut pailit pas taun sewu sangang atus sangang puluh pitu
+wavs/jvf_02059_01494277136_filtered.wav|pitch/jvf_02059_01494277136_filtered.pt|wektu kanggo nggarap ujian kurang limang menit meneh
+wavs/jvf_09039_00954158302_filtered.wav|pitch/jvf_09039_00954158302_filtered.pt|rita ora buka salon khusus gawe arek lanang sing kepingin direbonding
+wavs/jvf_06510_00350026793_filtered.wav|pitch/jvf_06510_00350026793_filtered.pt|ariel tambah lemu pas mari metu teko_vrb penjara
+wavs/jvf_09039_01331409459_filtered.wav|pitch/jvf_09039_01331409459_filtered.pt|anake carissa puteri lucune pol koyok golekan
+wavs/jvf_06510_01188265585_filtered.wav|pitch/jvf_06510_01188265585_filtered.pt|ronaldinho mantun nyukur rikmane teng_prep nggene salon
+wavs/jvf_09039_00450988854_filtered.wav|pitch/jvf_09039_00450988854_filtered.pt|kula mboten sumerep royal dutch shell gadhah kantor teng_prep surabaya napa mboten
+wavs/jvf_09039_00930691578_filtered.wav|pitch/jvf_09039_00930691578_filtered.pt|nitih taksi sampun kalih welas menit argonipun kok mboten mangklih
+wavs/jvf_06510_01363832594_filtered.wav|pitch/jvf_06510_01363832594_filtered.pt|chris hemsworth ngrantosi pertandingan bulutangkis ing lebete stadion
+wavs/jvf_06510_01955140166_filtered.wav|pitch/jvf_06510_01955140166_filtered.pt|heath ledger sampe saiki ijek dieling ambèk wong akeh
+wavs/jvf_09039_00990363546_filtered.wav|pitch/jvf_09039_00990363546_filtered.pt|melaske ndelok situasi ning afganistan akeh mayit pating ngglepar ning ndalan
+wavs/jvf_06510_00306460026_filtered.wav|pitch/jvf_06510_00306460026_filtered.pt|pasar rebo kui isine wong dodol buah buahan ning pinggir ndalan
+wavs/jvf_09039_01042179965_filtered.wav|pitch/jvf_09039_01042179965_filtered.pt|gita gutawa gak kenek dikandhani marang wong tuwa
+wavs/jvf_09039_01663352495_filtered.wav|pitch/jvf_09039_01663352495_filtered.pt|mboten mantun mantun ten tehran
+wavs/jvf_09039_00154600475_filtered.wav|pitch/jvf_09039_00154600475_filtered.pt|layang iku dawa banget nganti wolung ewu tembung
+wavs/jvf_09039_00400751388_filtered.wav|pitch/jvf_09039_00400751388_filtered.pt|dwi mesam meseme sakwise disemayani ibuke klambi anyar
+wavs/jvf_06510_00049683258_filtered.wav|pitch/jvf_06510_00049683258_filtered.pt|aku ya nggrentes atine yen eling kedadean taun sewu sangang atus sangang puluh wolu
+wavs/jvf_06510_01301980117_filtered.wav|pitch/jvf_06510_01301980117_filtered.pt|lha kuwi jeneng ibukotane kan guatemala city
+wavs/jvf_09039_00140618765_filtered.wav|pitch/jvf_09039_00140618765_filtered.pt|melanie iglesias ngabari nèk dhekne gak sida lunga numpak pesawat
+wavs/jvf_02059_01374526634_filtered.wav|pitch/jvf_02059_01374526634_filtered.pt|mozambik sampun diblacklist saking pengurus pusat
+wavs/jvf_09039_01302248517_filtered.wav|pitch/jvf_09039_01302248517_filtered.pt|dhokter bedhah sing kae mung nduwe anak siji lanang
+wavs/jvf_09039_02059242660_filtered.wav|pitch/jvf_09039_02059242660_filtered.pt|njenengan kapan badhe teng_prep daleme christian bale
+wavs/jvf_06510_01375584368_filtered.wav|pitch/jvf_06510_01375584368_filtered.pt|tivine ora murup murup wis selawe menit tak panjer
+wavs/jvf_06510_01720281172_filtered.wav|pitch/jvf_06510_01720281172_filtered.pt|masku mari ketrima kerja nang british petroleum indonesia
+wavs/jvf_02059_01499076213_filtered.wav|pitch/jvf_02059_01499076213_filtered.pt|nguntal rempela sing tuku ning warung pasta
+wavs/jvf_06510_01336771606_filtered.wav|pitch/jvf_06510_01336771606_filtered.pt|risty tagor sampun mboten tresna malih dhateng stuart
+wavs/jvf_06510_00414403494_filtered.wav|pitch/jvf_06510_00414403494_filtered.pt|ndang diasahi piringe wong ora ana telung menit
+wavs/jvf_09039_01050561200_filtered.wav|pitch/jvf_09039_01050561200_filtered.pt|mbak infra budhal kunjungan marang stirling kapan
+wavs/jvf_09039_01405039438_filtered.wav|pitch/jvf_09039_01405039438_filtered.pt|dewi gita nulis layang kagem penggemar ingkang manggen teng_prep amerika
+wavs/jvf_06510_01182723880_filtered.wav|pitch/jvf_06510_01182723880_filtered.pt|pak guru badhe pindah dhateng banyumas sasi mei
+wavs/jvm_07765_01768528034_filtered.wav|pitch/jvm_07765_01768528034_filtered.pt|segara caketipun papua singit napa mboten
+wavs/jvm_01519_01859482440_filtered.wav|pitch/jvm_01519_01859482440_filtered.pt|winona ryder iki mbiyen tau katresnan karo adi
+wavs/jvm_07765_00517156746_filtered.wav|pitch/jvm_07765_00517156746_filtered.pt|aktinge diah permatasari pas dadi momok ancol iku jan fenomenal tenan
+wavs/jvm_07765_01012846120_filtered.wav|pitch/jvm_07765_01012846120_filtered.pt|ayo mlaku mlaku numpak montor muluk etihad airways
+wavs/jvm_09724_01525898676_filtered.wav|pitch/jvm_09724_01525898676_filtered.pt|ayo rek ngewangi pak tarno bèn_vrb sulape gawa kasil
+wavs/jvm_09724_00774573911_filtered.wav|pitch/jvm_09724_00774573911_filtered.pt|ana upacara penyambutan presiden ning bandhara internasional san fransisco
+wavs/jvm_09724_01960923307_filtered.wav|pitch/jvm_09724_01960923307_filtered.pt|kapan virgin australia airlines didegna
+wavs/jvm_01519_00601090651_filtered.wav|pitch/jvm_01519_00601090651_filtered.pt|kancaku sing nganggo klambi abang iku putu nomer telu
+wavs/jvm_07765_00882447339_filtered.wav|pitch/jvm_07765_00882447339_filtered.pt|wings air kursine sempit ora penak
+wavs/jvm_09724_00637677454_filtered.wav|pitch/jvm_09724_00637677454_filtered.pt|balon sing dicekel kaka slank mbledhos siji siji
+wavs/jvm_09724_00778306017_filtered.wav|pitch/jvm_09724_00778306017_filtered.pt|misananku arep daftar dadi pramugarine korean air
+wavs/jvm_07765_01126993968_filtered.wav|pitch/jvm_07765_01126993968_filtered.pt|taun rong ewu kuwi dikeki jeneng taun millenium
+wavs/jvm_01519_01968801464_filtered.wav|pitch/jvm_01519_01968801464_filtered.pt|nino fernandez iki jik onok hubungan sedulur ambèk kraton solo
+wavs/jvm_01519_02052547706_filtered.wav|pitch/jvm_01519_02052547706_filtered.pt|kasus lumpur panas kae tanggung jawabe bakrie and brothers
+wavs/jvm_09724_01465404752_filtered.wav|pitch/jvm_09724_01465404752_filtered.pt|adhiku emoh diwedhaki wedak sing cape johnson and johnson
+wavs/jvm_09724_01229964081_filtered.wav|pitch/jvm_09724_01229964081_filtered.pt|tuku ayam goreng kriuk ning c_letter f_letter c_letter rasane kasinen
+wavs/jvm_01519_01136809136_filtered.wav|pitch/jvm_01519_01136809136_filtered.pt|ana bis shuttle saka bandhara menyang pusat kuthane kok
+wavs/jvm_01519_01636995768_filtered.wav|pitch/jvm_01519_01636995768_filtered.pt|oppo iku perusahaan anyar sing kudu diperhitungna juga
+wavs/jvm_07765_01338569881_filtered.wav|pitch/jvm_07765_01338569881_filtered.pt|mboten siyos ten sirkuit indianapolis
+wavs/jvm_07765_01672400451_filtered.wav|pitch/jvm_07765_01672400451_filtered.pt|sonny tulung nggolek godhong suruh ambèk woh jambe
+wavs/jvm_09724_01209071260_filtered.wav|pitch/jvm_09724_01209071260_filtered.pt|panjenengan badhe tobat yuswa sewidak
+wavs/jvm_01519_01980796347_filtered.wav|pitch/jvm_01519_01980796347_filtered.pt|kulo tepang kaliyan pak bayan wonten ing taun kalih ewu setunggal
+wavs/jvm_01519_01434988091_filtered.wav|pitch/jvm_01519_01434988091_filtered.pt|ana pira kantor total nèng indonesia
+wavs/jvm_01519_00065406946_filtered.wav|pitch/jvm_01519_00065406946_filtered.pt|kula mantun kecalan yatra gangsal ewu teng_prep dalan
+wavs/jvm_09724_00703700651_filtered.wav|pitch/jvm_09724_00703700651_filtered.pt|okky setiana dewi ora gelem nglambeni anake macem macem
+wavs/jvm_09724_02120438634_filtered.wav|pitch/jvm_09724_02120438634_filtered.pt|ersa mayori dikengken ngagem rasukan cemèng kaliyan pethak
+wavs/jvm_09724_02014865573_filtered.wav|pitch/jvm_09724_02014865573_filtered.pt|korban perang_nou diungsiake menyang nganjuk
+wavs/jvm_01519_00713325311_filtered.wav|pitch/jvm_01519_00713325311_filtered.pt|arswendo atmowiloto lagi nulis cerkak gawe majalah jayabaya
+wavs/jvm_09724_00930291647_filtered.wav|pitch/jvm_09724_00930291647_filtered.pt|barry prima numpak jaran sing lakune banter pol
+wavs/jvm_09724_01153188104_filtered.wav|pitch/jvm_09724_01153188104_filtered.pt|mbak miranda kerr saiki pancen ora ana tandingane nang donya
+wavs/jvm_01519_00845232055_filtered.wav|pitch/jvm_01519_00845232055_filtered.pt|akeh sing ditumbalke pas nggawe dalan tol cikopo awite maune iku alas gong liwang liwung
+wavs/jvm_07765_00217256973_filtered.wav|pitch/jvm_07765_00217256973_filtered.pt|babi rica rica masakan saking mandailing natal
+wavs/jvm_09724_00294509584_filtered.wav|pitch/jvm_09724_00294509584_filtered.pt|ès jeruk ning waroeng steak and shake
+wavs/jvm_07765_01903990162_filtered.wav|pitch/jvm_07765_01903990162_filtered.pt|jaran sumbawa susune bisa kanggo nambani lara jantung
+wavs/jvm_01519_01049543947_filtered.wav|pitch/jvm_01519_01049543947_filtered.pt|jambu kluthuk punika asalipun saking missouri
+wavs/jvm_09724_02015742114_filtered.wav|pitch/jvm_09724_02015742114_filtered.pt|amit amit ndhisik yen mlebu tol padalarang
+wavs/jvm_09724_01759236636_filtered.wav|pitch/jvm_09724_01759236636_filtered.pt|sampun kula lebetaken kulkas pitulas menit tapi dèrèng anyes
+wavs/jvm_07765_01166963648_filtered.wav|pitch/jvm_07765_01166963648_filtered.pt|roti o_letter rotinipun raos kopi
+wavs/jvm_07765_01927573190_filtered.wav|pitch/jvm_07765_01927573190_filtered.pt|mira durung tau mlebu nang tokone marc jacobs
+wavs/jvm_07765_00498306384_filtered.wav|pitch/jvm_07765_00498306384_filtered.pt|indah dewi pertiwi mular mular amargi mboten kantuk krama kalih calon garwane
+wavs/jvm_07765_00598889615_filtered.wav|pitch/jvm_07765_00598889615_filtered.pt|demam berdarah wis tekan sorong
+wavs/jvm_09724_00982325575_filtered.wav|pitch/jvm_09724_00982325575_filtered.pt|kerajaan ning ternate mbiyen diuri uri amarga rajane sing andhap asor
+wavs/jvm_09724_02031295406_filtered.wav|pitch/jvm_09724_02031295406_filtered.pt|prasaku kok klambi klambine h_letter and m_letter iki cilik cilik kabeh ukurane
+wavs/jvm_07765_01799053273_filtered.wav|pitch/jvm_07765_01799053273_filtered.pt|pengine nenggak ès jeruk jam setengah siji awan mau
+wavs/jvm_09724_01625975596_filtered.wav|pitch/jvm_09724_01625975596_filtered.pt|nèk tuku jam seiko mengko oleh servis gratis
+wavs/jvm_09724_01471596596_filtered.wav|pitch/jvm_09724_01471596596_filtered.pt|pemandangan ning iceland apik tenan
+wavs/jvm_07765_01682388323_filtered.wav|pitch/jvm_07765_01682388323_filtered.pt|valentino rossi mboten saged mbedaaken balapan teng_prep sirkuit kalih teng_prep dalanan
+wavs/jvm_09724_00256303328_filtered.wav|pitch/jvm_09724_00256303328_filtered.pt|calon mantune bupatine kuliah ning queensland
+wavs/jvm_07765_00778057008_filtered.wav|pitch/jvm_07765_00778057008_filtered.pt|kon aja pisan pisan nglarani atine clint eastwood
+wavs/jvm_09724_02055709172_filtered.wav|pitch/jvm_09724_02055709172_filtered.pt|baidu ngono asale teko_vrb cina
+wavs/jvm_01519_01769015167_filtered.wav|pitch/jvm_01519_01769015167_filtered.pt|staples teng_prep griya sampun telas dipun damel dolanan kalih adhi adhi
+wavs/jvm_07765_01507331581_filtered.wav|pitch/jvm_07765_01507331581_filtered.pt|slimutan karo turu ing njero bis bandung express
+wavs/jvm_09724_01078236430_filtered.wav|pitch/jvm_09724_01078236430_filtered.pt|mben_adv-every dinten rahmat dipunsangoni ibune arta sekawan ewu ndamel njajan
+wavs/jvm_07765_00417699045_filtered.wav|pitch/jvm_07765_00417699045_filtered.pt|kemal palevi mlintiri kertas siji siji sampe entek
+wavs/jvm_09724_00845358539_filtered.wav|pitch/jvm_09724_00845358539_filtered.pt|langgananku si sinar jaya awit pertama
+wavs/jvm_07765_01284536808_filtered.wav|pitch/jvm_07765_01284536808_filtered.pt|pabrik gula tebu ning cepu saiki wis tutup
+wavs/jvm_07765_00466387707_filtered.wav|pitch/jvm_07765_00466387707_filtered.pt|putri charlotte dilairna nang inggris sasi november taun rong ewu limalas
+wavs/jvm_07765_01192362422_filtered.wav|pitch/jvm_07765_01192362422_filtered.pt|donny alamsyah jarang milih lakon dadi wong susah
+wavs/jvm_07765_01433832457_filtered.wav|pitch/jvm_07765_01433832457_filtered.pt|golekna promo tiket garuda indonesia teka jakarta menyang surabaya
+wavs/jvm_01519_01427086904_filtered.wav|pitch/jvm_01519_01427086904_filtered.pt|adele kerep diarani bledhug anak gajah marang kanca kancane
+wavs/jvm_07765_00921001571_filtered.wav|pitch/jvm_07765_00921001571_filtered.pt|ya kuwi perusahaan tambang fajar bumi sakti
+wavs/jvm_07765_01993809221_filtered.wav|pitch/jvm_07765_01993809221_filtered.pt|mat solar niki sak menika mboten sinten sinten ing mriki
+wavs/jvm_09724_01820992858_filtered.wav|pitch/jvm_09724_01820992858_filtered.pt|piyambakipun eriska rein mboten saged medal sakwayah wayah
+wavs/jvm_01519_01675537031_filtered.wav|pitch/jvm_01519_01675537031_filtered.pt|kathah keturunan tionghoa ingkang gesang ten glodok
+wavs/jvm_01519_01641752155_filtered.wav|pitch/jvm_01519_01641752155_filtered.pt|arep mbok eling eling nganti kapan kedadean taun rong ewu patbelas kuwi
+wavs/jvm_01519_01193940341_filtered.wav|pitch/jvm_01519_01193940341_filtered.pt|ndhèrèk tulung pesenake corobikang wolung puluh iji
+wavs/jvm_09724_00923062524_filtered.wav|pitch/jvm_09724_00923062524_filtered.pt|ora usah adoh adoh tekan ndi ndi wong ana gurun ning gumuk pasir parangkusumo
+wavs/jvm_09724_00509193841_filtered.wav|pitch/jvm_09724_00509193841_filtered.pt|etude house niku anakipun perusahaan amore pacific
+wavs/jvm_07765_00303445266_filtered.wav|pitch/jvm_07765_00303445266_filtered.pt|ali zainal mboten kagungan toya ing griyane
+wavs/jvm_01519_00399064763_filtered.wav|pitch/jvm_01519_00399064763_filtered.pt|dadi wong mbok ya sing nggenah koyok russel crowe ngene lho
+wavs/jvm_07765_00146518743_filtered.wav|pitch/jvm_07765_00146518743_filtered.pt|kamidia radisti kuwi mbiyen sing nggawakna acara olahraga nang t_letter-en v_letter-en
+wavs/jvm_09724_01007668411_filtered.wav|pitch/jvm_09724_01007668411_filtered.pt|saiki diangkat dadi kepala kantor pajak ning wilayah boven digul
+wavs/jvm_09724_00914659052_filtered.wav|pitch/jvm_09724_00914659052_filtered.pt|deva mahendra sregep sanget anggene bidhal nyambut damel
+wavs/jvm_09724_00585641756_filtered.wav|pitch/jvm_09724_00585641756_filtered.pt|jan janipun pripun ta ritual ingkang kaping pitu
+wavs/jvm_09724_00870617641_filtered.wav|pitch/jvm_09724_00870617641_filtered.pt|majalah ingkang dicepèng didalaken dening penerbit kanisius
+wavs/jvm_09724_01700859938_filtered.wav|pitch/jvm_09724_01700859938_filtered.pt|awake glenn alinskie dadi gedhe lan dhukur sakjoke rabi
+wavs/jvm_09724_02059149582_filtered.wav|pitch/jvm_09724_02059149582_filtered.pt|sinten sing nate nitih lufthansa saking jakarta
+wavs/jvm_07765_00144035544_filtered.wav|pitch/jvm_07765_00144035544_filtered.pt|samuel rizal dipun dhawuhi kaliyan tiyang kathah
+wavs/jvm_07765_01747210574_filtered.wav|pitch/jvm_07765_01747210574_filtered.pt|tinder niki nggadhahe tiyang amerika serikat
+wavs/jvm_07765_01430780418_filtered.wav|pitch/jvm_07765_01430780418_filtered.pt|wiz khalifa rumangsa oleh kabegjan sak sampunipun nembang wau sonten
+wavs/jvm_09724_01237036273_filtered.wav|pitch/jvm_09724_01237036273_filtered.pt|umurmu iki jik enom lho jik rolikur dadi uripmu jik dawa
+wavs/jvm_01519_01330542139_filtered.wav|pitch/jvm_01519_01330542139_filtered.pt|wareg maem soto teng_prep gudeg yu djum
+wavs/jvm_09724_00261066895_filtered.wav|pitch/jvm_09724_00261066895_filtered.pt|central park ora resik lan ambune pesing uyuh asu
+wavs/jvm_07765_01051862315_filtered.wav|pitch/jvm_07765_01051862315_filtered.pt|garwanipun panjenengan ngasta wonten bandung
+wavs/jvm_09724_00257978097_filtered.wav|pitch/jvm_09724_00257978097_filtered.pt|ndelok annisa bahar njoged nggarai awak jantungan
+wavs/jvm_07765_00697928426_filtered.wav|pitch/jvm_07765_00697928426_filtered.pt|piyambake mboten purun menawa diparingi arta sedasa ewu
+wavs/jvm_09724_01728734940_filtered.wav|pitch/jvm_09724_01728734940_filtered.pt|sirup panas seka p_letter t_letter combiphar ora ngefek
+wavs/jvm_07765_01879565484_filtered.wav|pitch/jvm_07765_01879565484_filtered.pt|ana patung yesus ning rio de janeiro
+wavs/jvm_07765_01199810203_filtered.wav|pitch/jvm_07765_01199810203_filtered.pt|ngirim surat durung tekan bengkalis
+wavs/jvm_09724_01977019225_filtered.wav|pitch/jvm_09724_01977019225_filtered.pt|pengantene arep lunga bulan madu menyang sri lanka numpak montor mabur
+wavs/jvm_09724_00141637114_filtered.wav|pitch/jvm_09724_00141637114_filtered.pt|pussycat dolls iki lagune apik apik lho jajal rungokna ta
+wavs/jvm_09724_02147061800_filtered.wav|pitch/jvm_09724_02147061800_filtered.pt|arep balapan mobil ning sentul
+wavs/jvm_09724_01444658327_filtered.wav|pitch/jvm_09724_01444658327_filtered.pt|david guetta nyiptakna lagu iku digawe anake sing mati kenek demam berdarah
+wavs/jvm_09724_00927415425_filtered.wav|pitch/jvm_09724_00927415425_filtered.pt|amber heard akas nèk dikongkon nandur bayem nang mburi omah
+wavs/jvm_07765_02041242587_filtered.wav|pitch/jvm_07765_02041242587_filtered.pt|kantorku sak sabrangan saka kantor p_letter t_letter angkasa pura
+wavs/jvm_09724_01795953917_filtered.wav|pitch/jvm_09724_01795953917_filtered.pt|dhuwek sak yuta kok cepet men_adv enteke sakklemetan
+wavs/jvm_07765_01052289144_filtered.wav|pitch/jvm_07765_01052289144_filtered.pt|saben wengi panggaweanku mung nontoni discovery channel
+wavs/jvm_09724_01194807835_filtered.wav|pitch/jvm_09724_01194807835_filtered.pt|sebastian vettel ngadeg ngejer nang dhukure panggung
+wavs/jvm_07765_01815695832_filtered.wav|pitch/jvm_07765_01815695832_filtered.pt|david beckham mboten tega ninggalaken putrine piyambakan ing lebete montor
+wavs/jvm_09724_00940832020_filtered.wav|pitch/jvm_09724_00940832020_filtered.pt|aurel hermansyah melu ujian nasional taun ngarep
+wavs/jvm_09724_01322070650_filtered.wav|pitch/jvm_09724_01322070650_filtered.pt|dior sampun bikak cabang teng_prep gambia
+wavs/jvm_09724_00382351696_filtered.wav|pitch/jvm_09724_00382351696_filtered.pt|aliran sing dianut huffington post iku liberal
+wavs/jvm_09724_00720755175_filtered.wav|pitch/jvm_09724_00720755175_filtered.pt|dewi ngelake pol sakwise mlayu muteri lapangan sekolah
+wavs/jvm_07765_01533182893_filtered.wav|pitch/jvm_07765_01533182893_filtered.pt|lala karmela gak kumanan sega jangan gaweane simbok
+wavs/jvm_07765_02002496592_filtered.wav|pitch/jvm_07765_02002496592_filtered.pt|sepatu sing ana hake kae wae ning buccheri
+wavs/jvm_09724_00161600310_filtered.wav|pitch/jvm_09724_00161600310_filtered.pt|pegunungan teng_prep arizona sampun gundhul
+wavs/jvm_09724_02062481310_filtered.wav|pitch/jvm_09724_02062481310_filtered.pt|kita sedaya sampun nyiapaken sedayane kagem meryl streep mangke
+wavs/jvm_07765_01292422663_filtered.wav|pitch/jvm_07765_01292422663_filtered.pt|jarene tobey macguire iku isa miber lan nemplok nang gedhung tenanan
+wavs/jvm_09724_00212177494_filtered.wav|pitch/jvm_09724_00212177494_filtered.pt|kesah klaten sareng réncang réncang
+wavs/jvm_07765_01779320005_filtered.wav|pitch/jvm_07765_01779320005_filtered.pt|sepadku sing abang kae polygon
+wavs/jvm_09724_01897440148_filtered.wav|pitch/jvm_09724_01897440148_filtered.pt|pas mlebu ulen sentalu hawane krasa beda
+wavs/jvm_09724_01401860993_filtered.wav|pitch/jvm_09724_01401860993_filtered.pt|kaosmu tulisane kok saru ora kaya produksine joger bali
+wavs/jvm_09724_01256601475_filtered.wav|pitch/jvm_09724_01256601475_filtered.pt|menawi kula leres_adj piyambakipun kesah dhateng brisbane
+wavs/jvm_09724_00956603222_filtered.wav|pitch/jvm_09724_00956603222_filtered.pt|tika bravani mulang lare lare ing terminal saben dinten ahad
+wavs/jvm_07765_01382988121_filtered.wav|pitch/jvm_07765_01382988121_filtered.pt|wong sing dha mudik padha turu sewengi ning stasiun jatinegara
+wavs/jvm_01519_01999591517_filtered.wav|pitch/jvm_01519_01999591517_filtered.pt|ibu kula sampun sepuh nanging tasih sregep maos womens health
+wavs/jvm_09724_01224086120_filtered.wav|pitch/jvm_09724_01224086120_filtered.pt|a_letter i_letter a_letter iku perusahaan asuransi saka ngendi ya
+wavs/jvm_07765_01666406535_filtered.wav|pitch/jvm_07765_01666406535_filtered.pt|wulandari iki akeh ngomonge mulane kancane gak pati seneng ambèk dheke
+wavs/jvm_07765_00313919843_filtered.wav|pitch/jvm_07765_00313919843_filtered.pt|sunatan adhiku wingi ditanggapna paramore nang omah
+wavs/jvm_07765_00329324166_filtered.wav|pitch/jvm_07765_00329324166_filtered.pt|jeneng tessy iku asline jenenge anak mbarepe
+wavs/jvm_09724_00750511306_filtered.wav|pitch/jvm_09724_00750511306_filtered.pt|jaja mihardja butuh ban bekas akeh gawe usaha sampingane
+wavs/jvm_09724_00424991399_filtered.wav|pitch/jvm_09724_00424991399_filtered.pt|mireng mireng badhe wonten banjir bandhang ing ngajeng taun kalih ewu sangalas
+wavs/jvm_01519_01954499162_filtered.wav|pitch/jvm_01519_01954499162_filtered.pt|pinginipun nenggak ès jeruk jam setengah setunggal siang wau
+wavs/jvm_09724_01083823063_filtered.wav|pitch/jvm_09724_01083823063_filtered.pt|once mekel_adj-fully didhapuk dadi bintang utama nang pagelaran wayang desaku
+wavs/jvm_09724_01986081165_filtered.wav|pitch/jvm_09724_01986081165_filtered.pt|soekarno tau diasingake ning pulau buru
+wavs/jvm_01519_01006247318_filtered.wav|pitch/jvm_01519_01006247318_filtered.pt|gempa ingkang kedadosan ing samarinda dipunsiaraken wonten ing tivi nasional
+wavs/jvm_07765_01082528274_filtered.wav|pitch/jvm_07765_01082528274_filtered.pt|margot robbie lali nek_conj dina iki kudu mbancaki wetone anake
+wavs/jvm_01519_00680661857_filtered.wav|pitch/jvm_01519_00680661857_filtered.pt|musuem louvre kan bentuke kaya piramida kae ta
+wavs/jvm_07765_00895219092_filtered.wav|pitch/jvm_07765_00895219092_filtered.pt|ibu mboten kersa dhahar daging teng_prep tapanuli
+wavs/jvm_09724_00112693017_filtered.wav|pitch/jvm_09724_00112693017_filtered.pt|ojok lali gawa jaket nèk arep metu metu saiki wis musim bedhidhing soale
+wavs/jvm_09724_01221132107_filtered.wav|pitch/jvm_09724_01221132107_filtered.pt|udan ès ning pangkalan bun
+wavs/jvm_09724_02089731285_filtered.wav|pitch/jvm_09724_02089731285_filtered.pt|h_letter m_letter sampoerna kang nduwe yayasan nggo yatim piatu
+wavs/jvm_01519_00377218613_filtered.wav|pitch/jvm_01519_00377218613_filtered.pt|mangsa paceklik kados menika pas jam kalih welas sing raosipun sirah kulo badhe pecah amargi panas
+wavs/jvm_01519_01498803105_filtered.wav|pitch/jvm_01519_01498803105_filtered.pt|shania twain dikongkon ibune ngenget jangan terong ambèk kacang
+wavs/jvm_09724_00472270715_filtered.wav|pitch/jvm_09724_00472270715_filtered.pt|griya eyang putri kula ing pesona kahyangan blok a_letter nomer gangsal welas
+wavs/jvm_07765_00783607227_filtered.wav|pitch/jvm_07765_00783607227_filtered.pt|pulau samosir ana ing tengahe
+wavs/jvm_07765_01888549427_filtered.wav|pitch/jvm_07765_01888549427_filtered.pt|sak pinginmu apa bae ana ning i_letter t_letter c_letter kuningan
+wavs/jvm_07765_01872761880_filtered.wav|pitch/jvm_07765_01872761880_filtered.pt|kaping gangsal nindaaken haji
+wavs/jvm_01519_00431372936_filtered.wav|pitch/jvm_01519_00431372936_filtered.pt|ambasador kok sepi kaya kuburan
+wavs/jvm_09724_01456271562_filtered.wav|pitch/jvm_09724_01456271562_filtered.pt|mboten sisah kuwatir mangke badhe ngawontenaken sosialisasi ing taun kalih ewu tiga
+wavs/jvm_09724_00518630840_filtered.wav|pitch/jvm_09724_00518630840_filtered.pt|sakwise nyanyi evie tamala njujuk menyang omahe ibune
+wavs/jvm_01519_01071423304_filtered.wav|pitch/jvm_01519_01071423304_filtered.pt|mito regane murah tapi ora awet
+wavs/jvm_09724_00308338010_filtered.wav|pitch/jvm_09724_00308338010_filtered.pt|jodie foster pancet ngeyel nèk duduk dheke sing nyolong
+wavs/jvm_09724_00249392329_filtered.wav|pitch/jvm_09724_00249392329_filtered.pt|saiki pantai sigandu ditanduri bakau sak pinggire ndalan
+wavs/jvm_09724_01765501038_filtered.wav|pitch/jvm_09724_01765501038_filtered.pt|restoranipun sampun bikak teng_prep lima
+wavs/jvm_01519_01801231272_filtered.wav|pitch/jvm_01519_01801231272_filtered.pt|sampun mboten usah nggumun kalih yuswanipun ratu elizabeth loro
+wavs/jvm_07765_01132023533_filtered.wav|pitch/jvm_07765_01132023533_filtered.pt|adi nugroho bidal nyambut damel teng_prep pabrik
+wavs/jvm_07765_00555424348_filtered.wav|pitch/jvm_07765_00555424348_filtered.pt|badhe besuk_vrb-nou keluarga ten burundi
+wavs/jvm_07765_01373214577_filtered.wav|pitch/jvm_07765_01373214577_filtered.pt|iki krupuke selak_adj mlempem wis sangalas menit ora dinyuk
+wavs/jvm_07765_00524043862_filtered.wav|pitch/jvm_07765_00524043862_filtered.pt|jare p_letter t_letter ultrajaya susune ana sikil kodhoke
+wavs/jvm_09724_01376736927_filtered.wav|pitch/jvm_09724_01376736927_filtered.pt|mundhut duren kalih enceh ten pasar induk kramat jati
+wavs/jvm_07765_00864603976_filtered.wav|pitch/jvm_07765_00864603976_filtered.pt|lajeng taun kalih ewu gangsal panjenengan rawuh sareng garwanipun
+wavs/jvm_07765_00661161387_filtered.wav|pitch/jvm_07765_00661161387_filtered.pt|jack bugg menek wit pelem sing lagi nguwoh akeh
+wavs/jvm_09724_00851728854_filtered.wav|pitch/jvm_09724_00851728854_filtered.pt|syaharani nggak gelem nyekel kuthuk blas
+wavs/jvm_07765_01465720427_filtered.wav|pitch/jvm_07765_01465720427_filtered.pt|melinda nggotong meja jati sakmunu gedhene
+wavs/jvm_09724_01770692578_filtered.wav|pitch/jvm_09724_01770692578_filtered.pt|sedaya pemainipun wonten sewelas menawi bal balan
+wavs/jvm_07765_00300557088_filtered.wav|pitch/jvm_07765_00300557088_filtered.pt|ternak lembune p_letter t_letter greenfields indonesia lemu lemu
+wavs/jvm_07765_00861671745_filtered.wav|pitch/jvm_07765_00861671745_filtered.pt|nick jonas remen nedha sekul kaliyan jangan lodeh
+wavs/jvm_01519_01274632370_filtered.wav|pitch/jvm_01519_01274632370_filtered.pt|wingi masuk angin trus tak ombeni madu saka jamu air mancur
+wavs/jvm_07765_01842394188_filtered.wav|pitch/jvm_07765_01842394188_filtered.pt|lha awakmu rak mlebu t_letter k_letter taun sewu sangang atus sangang puluh lima ta
+wavs/jvm_01519_01310118341_filtered.wav|pitch/jvm_01519_01310118341_filtered.pt|sapa c_letter-en e_letter-en o_letter ne repsol pas tahun rong ewu
+wavs/jvm_01519_01930292894_filtered.wav|pitch/jvm_01519_01930292894_filtered.pt|kotawaringin jawah ageng sanget
+wavs/jvm_09724_00285517192_filtered.wav|pitch/jvm_09724_00285517192_filtered.pt|rotine p_letter t_letter mayora indonesia rodok sepa rasane
+wavs/jvm_07765_00312994284_filtered.wav|pitch/jvm_07765_00312994284_filtered.pt|brussel menika dipun cathet dening pemerintah
+wavs/jvm_01519_00331126091_filtered.wav|pitch/jvm_01519_00331126091_filtered.pt|iki rute terakhire ning terminal kalideres
+wavs/jvm_01519_01293512933_filtered.wav|pitch/jvm_01519_01293512933_filtered.pt|marissa haque nggandheng putune mlaku mlaku muteri lapangan
+wavs/jvm_07765_01057337791_filtered.wav|pitch/jvm_07765_01057337791_filtered.pt|kutang sing didol victoria secret kuwi jan larang larang pol
+wavs/jvm_09724_01837330665_filtered.wav|pitch/jvm_09724_01837330665_filtered.pt|semana uga kirgistan ya sih akeh perang_nou
+wavs/jvm_09724_00441177430_filtered.wav|pitch/jvm_09724_00441177430_filtered.pt|werna banyu ing danau kelimutu bisa mongklah mangklih
+wavs/jvm_07765_01279852413_filtered.wav|pitch/jvm_07765_01279852413_filtered.pt|jam telu isuk bapak wis tangi arep nindake solat tahajud
+wavs/jvm_09724_00123688230_filtered.wav|pitch/jvm_09724_00123688230_filtered.pt|mbak rumi nyimpen bakso enem_nou bungkus ning lemari mburi
+wavs/jvm_09724_01630919254_filtered.wav|pitch/jvm_09724_01630919254_filtered.pt|sedayanipun wonten tigang ewu tiyang ingkang pejah amargi paprangan
+wavs/jvm_01519_00318689356_filtered.wav|pitch/jvm_01519_00318689356_filtered.pt|mboten mantun mantun teh tehran
+wavs/jvm_01519_00508923795_filtered.wav|pitch/jvm_01519_00508923795_filtered.pt|rawuh wonten pemalang jam pinten
+wavs/jvm_01519_02011704104_filtered.wav|pitch/jvm_01519_02011704104_filtered.pt|jam kalih enjing wau kula mireng wonten ingkang nyuwun tulung nangis nangis
+wavs/jvm_09724_00453979532_filtered.wav|pitch/jvm_09724_00453979532_filtered.pt|mobile cititrans kaya roti tawar bentukane
+wavs/jvm_01519_01406767236_filtered.wav|pitch/jvm_01519_01406767236_filtered.pt|memes igit igiten ndeleng anak anake sing padha tukaran
+wavs/jvm_09724_00109249576_filtered.wav|pitch/jvm_09724_00109249576_filtered.pt|khrisna mukti saiki dadi anggota d_letter p_letter r_letter bagean komisi olahraga
+wavs/jvm_09724_01175366176_filtered.wav|pitch/jvm_09724_01175366176_filtered.pt|sak nalika ning sragen papasan karo bupatine
+wavs/jvm_09724_01997754830_filtered.wav|pitch/jvm_09724_01997754830_filtered.pt|ngekos ning kebayoran baru ora aman
+wavs/jvm_07765_02102236813_filtered.wav|pitch/jvm_07765_02102236813_filtered.pt|deborah apa sing wungu nom kae
+wavs/jvm_01519_01713940195_filtered.wav|pitch/jvm_01519_01713940195_filtered.pt|pelatih michigan duka sanget nggih
+wavs/jvm_01519_00694923606_filtered.wav|pitch/jvm_01519_00694923606_filtered.pt|natasha wilona gègèr karepe dhewe perkara gak duwe dhuwit
+wavs/jvm_09724_00063084846_filtered.wav|pitch/jvm_09724_00063084846_filtered.pt|sir alex ferguson mek isok tenger tenger ndelok kelakuane bojone
+wavs/jvm_09724_00855088407_filtered.wav|pitch/jvm_09724_00855088407_filtered.pt|kejem tur medeni kabeh pandhuwure korea utara
+wavs/jvm_01519_00956083692_filtered.wav|pitch/jvm_01519_00956083692_filtered.pt|kapan pixar bakal ngetokna filem anyar maneh
+wavs/jvm_01519_00491410097_filtered.wav|pitch/jvm_01519_00491410097_filtered.pt|tivine ora murup murup wis selawe menit tak panjer
+wavs/jvm_09724_00102459494_filtered.wav|pitch/jvm_09724_00102459494_filtered.pt|nyarenipun teng_prep hotel dhaerah malabar
+wavs/jvm_09724_00486522540_filtered.wav|pitch/jvm_09724_00486522540_filtered.pt|jennifer dunn ngakoni nèk ana rasa tenanan karo pengacarane
+wavs/jvm_09724_02088411179_filtered.wav|pitch/jvm_09724_02088411179_filtered.pt|giselle bundchen sampun diwangsuli nanging mboten ènten wangsulan
+wavs/jvm_09724_02053637534_filtered.wav|pitch/jvm_09724_02053637534_filtered.pt|luke hemsworth ningali pertandingan bal balan ngantos dalu
+wavs/jvm_01519_02022997607_filtered.wav|pitch/jvm_01519_02022997607_filtered.pt|sanjange calvin klein kula mboten pareng medal kalih sinten sinten
+wavs/jvm_01519_01697725441_filtered.wav|pitch/jvm_01519_01697725441_filtered.pt|taun rong ewu kuwi dikeki jeneng taun millenium
+wavs/jvm_07765_00411766761_filtered.wav|pitch/jvm_07765_00411766761_filtered.pt|nikita willy iki pawakane endhek lemu kaya aku
+wavs/jvm_09724_01561055565_filtered.wav|pitch/jvm_09724_01561055565_filtered.pt|amanda seyfried lagi maca kitab pepak basa jawa
+wavs/jvm_09724_01792652677_filtered.wav|pitch/jvm_09724_01792652677_filtered.pt|louis thomlinson dipèk anak ambèk tukang gawe keris
+wavs/jvm_09724_00745900189_filtered.wav|pitch/jvm_09724_00745900189_filtered.pt|sampun ngantos mboten angsal anggen teng_prep dominos pizza
+wavs/jvm_07765_01205916618_filtered.wav|pitch/jvm_07765_01205916618_filtered.pt|salah sawijini produke bayer iku ya obat nyamuk baygon iki
+wavs/jvm_07765_01048309245_filtered.wav|pitch/jvm_07765_01048309245_filtered.pt|virzha ora kanti ngenteni wedokane ganti klambi
+wavs/jvm_09724_01193146049_filtered.wav|pitch/jvm_09724_01193146049_filtered.pt|tales bogor diolah dados jajanan ingkang disade lapis bogor sangkuriang
+wavs/jvm_07765_00361785744_filtered.wav|pitch/jvm_07765_00361785744_filtered.pt|anak putune jaya group sugih tekan engko kiamat wis
+wavs/jvm_07765_01730167195_filtered.wav|pitch/jvm_07765_01730167195_filtered.pt|sri mbayi nang tengah tengah wong sing lagi ndelok konsere abba
+wavs/jvm_09724_00565901555_filtered.wav|pitch/jvm_09724_00565901555_filtered.pt|mundhut tales teng_prep bogor
+wavs/jvm_09724_00201688309_filtered.wav|pitch/jvm_09724_00201688309_filtered.pt|numpak prau karo mangan putu ayu ning banjarmasin
+wavs/jvm_09724_01787094938_filtered.wav|pitch/jvm_09724_01787094938_filtered.pt|kula sakmenika sampun numbasaken ashley judd ageman
+wavs/jvm_07765_01945748644_filtered.wav|pitch/jvm_07765_01945748644_filtered.pt|pinten regi sewengi nginep teng_prep hotel hyatt
+wavs/jvm_09724_00883646332_filtered.wav|pitch/jvm_09724_00883646332_filtered.pt|mireng mireng jisimipun lady di mboten disalataken dhateng mesjid
+wavs/jvm_07765_01219180796_filtered.wav|pitch/jvm_07765_01219180796_filtered.pt|zentrum saiki wis nganyari
+wavs/jvm_09724_01585878465_filtered.wav|pitch/jvm_09724_01585878465_filtered.pt|anne hathaway lair dina rebo kliwon neptune limalas
+wavs/jvm_01519_00830091417_filtered.wav|pitch/jvm_01519_00830091417_filtered.pt|pemenang lomba gamelan saking grobogan
+wavs/jvm_01519_00311184818_filtered.wav|pitch/jvm_01519_00311184818_filtered.pt|bal balan wong wedok nyambut pitulasan dianaake wali kota solo ning stadion manahan
+wavs/jvm_09724_00458325993_filtered.wav|pitch/jvm_09724_00458325993_filtered.pt|napa panjenengan badhe dandan ngantos nem_nou menit
+wavs/jvm_01519_01847361319_filtered.wav|pitch/jvm_01519_01847361319_filtered.pt|rame bocah bocah mangkat sekolah jam pitu isuk saben dina
+wavs/jvm_09724_01881980899_filtered.wav|pitch/jvm_09724_01881980899_filtered.pt|mitsubishi manggoni gedhung sentral senayan siji lan loro
+wavs/jvm_01519_01447043241_filtered.wav|pitch/jvm_01519_01447043241_filtered.pt|johar baru sak menika sampun jaya
+wavs/jvm_09724_00170236794_filtered.wav|pitch/jvm_09724_00170236794_filtered.pt|jemuwah kliwon ning masjid istiqlal akeh wong nggelar dagangan
+wavs/jvm_07765_01852746888_filtered.wav|pitch/jvm_07765_01852746888_filtered.pt|addie m_letter s_letter ngeterna adhine berobat menyang puskesmas
+wavs/jvm_07765_00250440946_filtered.wav|pitch/jvm_07765_00250440946_filtered.pt|apa ana montor mabur tiger air sing ceblok selama iki
+wavs/jvm_01519_01527544075_filtered.wav|pitch/jvm_01519_01527544075_filtered.pt|paling pas pancen ning rakuten belanja online apa wae ana lan murah
+wavs/jvm_09724_01351745959_filtered.wav|pitch/jvm_09724_01351745959_filtered.pt|ibuku males ndelok kelakuane marshanda sing plin plan
+wavs/jvm_07765_01366106898_filtered.wav|pitch/jvm_07765_01366106898_filtered.pt|jihan fahira ndherek pengajian sesasi pisan ing komplek griyane
+wavs/jvm_07765_01851926883_filtered.wav|pitch/jvm_07765_01851926883_filtered.pt|obat sing tak ombe kae tulisane produksi kalbe
+wavs/jvm_07765_00543859190_filtered.wav|pitch/jvm_07765_00543859190_filtered.pt|ngrasakna tuku sepatu merek aldo isok gawe sepatu ae wis untung untungan
+wavs/jvm_01519_01179571789_filtered.wav|pitch/jvm_01519_01179571789_filtered.pt|megan fox mboten ngertos ukara niku napa
+wavs/jvm_07765_00711349782_filtered.wav|pitch/jvm_07765_00711349782_filtered.pt|p_letter t_letter senayan punika ingkang kagungan gedhung sentral senayan kalih
+wavs/jvm_07765_00882909309_filtered.wav|pitch/jvm_07765_00882909309_filtered.pt|rina hasyim ngundang anake tanggane sing baru selapanan
+wavs/jvm_09724_00123290452_filtered.wav|pitch/jvm_09724_00123290452_filtered.pt|rossa pegatan ambèk yoyok tahun rong ewu sanga
+wavs/jvm_09724_01280467981_filtered.wav|pitch/jvm_09724_01280467981_filtered.pt|yasmine wildblood mundhut rasukan abrit kaliyan cemèng
+wavs/jvm_01519_00979130632_filtered.wav|pitch/jvm_01519_00979130632_filtered.pt|christ lauren nedhi tulung supaya kula mboten trisna malih dhateng piyambakipun
+wavs/jvm_01519_01118502191_filtered.wav|pitch/jvm_01519_01118502191_filtered.pt|rihanna mung dipriksa minangka saksi kanggo kasuse chris brown
+wavs/jvm_09724_00449423509_filtered.wav|pitch/jvm_09724_00449423509_filtered.pt|wis ping pira ae dewi persik rabi
+wavs/jvm_09724_01680860479_filtered.wav|pitch/jvm_09724_01680860479_filtered.pt|krungu krungu rolex iki jam paling larang sak ndonya
+wavs/jvm_09724_01096655442_filtered.wav|pitch/jvm_09724_01096655442_filtered.pt|penerbangan saking cikarang napa ditunda
+wavs/jvm_09724_01765223117_filtered.wav|pitch/jvm_09724_01765223117_filtered.pt|venna melinda sampe saiki isih tukaran karo bojone
+wavs/jvm_07765_00870976834_filtered.wav|pitch/jvm_07765_00870976834_filtered.pt|gudel ingkang kaping sekawan paling seger buger
+wavs/jvm_07765_01169722904_filtered.wav|pitch/jvm_07765_01169722904_filtered.pt|maca berita seka telegraph iku isa nambah kekawruhane awak dhewe
+wavs/jvm_09724_01870052194_filtered.wav|pitch/jvm_09724_01870052194_filtered.pt|fariz r_letter m_letter riweh tandang gawe nang loteng omahe
+wavs/jvm_09724_00580363410_filtered.wav|pitch/jvm_09724_00580363410_filtered.pt|piyambakipun matur badhe sinau teng_prep dompu
+wavs/jvm_09724_00823081773_filtered.wav|pitch/jvm_09724_00823081773_filtered.pt|pandu logistics nyediake jasa kurir
+wavs/jvm_09724_00888698706_filtered.wav|pitch/jvm_09724_00888698706_filtered.pt|cowek ingkang kangge ndamel bumbu ten seribu rasa gumpil
+wavs/jvm_09724_01196631123_filtered.wav|pitch/jvm_09724_01196631123_filtered.pt|mangan sop iga sapi ning pelabuhan cedhak kota malaka
+wavs/jvm_01519_01074976674_filtered.wav|pitch/jvm_01519_01074976674_filtered.pt|mbak citra sampun setaun dèrèng wangsul saking alor
+wavs/jvm_07765_01510765964_filtered.wav|pitch/jvm_07765_01510765964_filtered.pt|bubur sinar garut nambah menu dadi akeh banget
+wavs/jvm_09724_01587523057_filtered.wav|pitch/jvm_09724_01587523057_filtered.pt|badhe manjat gendhèng griyanipun budhe ingkang teng_prep spanyol
+wavs/jvm_07765_00083376018_filtered.wav|pitch/jvm_07765_00083376018_filtered.pt|bumi serpong inggih menika usaha teng_prep bidang properti
+wavs/jvm_07765_01650023912_filtered.wav|pitch/jvm_07765_01650023912_filtered.pt|century lagi keentekan sabun gudik
+wavs/jvm_01519_00244746923_filtered.wav|pitch/jvm_01519_00244746923_filtered.pt|peru wis semingkir ning babak pertama
+wavs/jvm_01519_00452078417_filtered.wav|pitch/jvm_01519_00452078417_filtered.pt|kawasaki wis suwe durung ngetokna produk maneh
+wavs/jvm_09724_00625026543_filtered.wav|pitch/jvm_09724_00625026543_filtered.pt|nirvana sakmenika badhe ditumbas kalih bambang soeparmo
+wavs/jvm_07765_02041341642_filtered.wav|pitch/jvm_07765_02041341642_filtered.pt|bangunan rumah mode ketingal megah nggih
+wavs/jvm_07765_00459296210_filtered.wav|pitch/jvm_07765_00459296210_filtered.pt|menawi mlebet ankara mboten pikantuk visa
+wavs/jvm_09724_01872352501_filtered.wav|pitch/jvm_09724_01872352501_filtered.pt|vanessa angel nggadhahi grana ingkang ngudhup mlati uga lathi ingkang nyigar jambe
+wavs/jvm_09724_00652396220_filtered.wav|pitch/jvm_09724_00652396220_filtered.pt|denada mboten tepang kalih tiyang tiyang niku
+wavs/jvm_09724_01592537518_filtered.wav|pitch/jvm_09724_01592537518_filtered.pt|mbake rizky nasar kerja nang nggonane kantorku
+wavs/jvm_09724_00662825466_filtered.wav|pitch/jvm_09724_00662825466_filtered.pt|universitas jendral sudirman anane ning purwokerto
+wavs/jvm_09724_01980586437_filtered.wav|pitch/jvm_09724_01980586437_filtered.pt|tuku sepatu lokal lan awet ya ning pasar cibaduyut
+wavs/jvm_07765_00634968709_filtered.wav|pitch/jvm_07765_00634968709_filtered.pt|esemipun sule kados madu pinastika
+wavs/jvm_01519_00743729803_filtered.wav|pitch/jvm_01519_00743729803_filtered.pt|bedane karo pinjaman b_letter t_letter n_letter apa ya
+wavs/jvm_09724_00584879693_filtered.wav|pitch/jvm_09724_00584879693_filtered.pt|christina aguilera nyekeli rok cekake sing keterak angin nggebes
+wavs/jvm_01519_00167130742_filtered.wav|pitch/jvm_01519_00167130742_filtered.pt|pak bupati ngajak lare lare dhahar teng_prep mang engking
+wavs/jvm_01519_00566579067_filtered.wav|pitch/jvm_01519_00566579067_filtered.pt|upacara gendera arep dimulai jam wolu isuk
+wavs/jvm_09724_01651449753_filtered.wav|pitch/jvm_09724_01651449753_filtered.pt|bintaro menika sanes kutha ageng
+wavs/jvm_09724_02078011304_filtered.wav|pitch/jvm_09724_02078011304_filtered.pt|adhiku sing lanang laire tahun rong ewu
+wavs/jvm_09724_00440141921_filtered.wav|pitch/jvm_09724_00440141921_filtered.pt|randy pangalila ngenteni pengumuman saka kedutaan suwe banget
+wavs/jvm_09724_00795238412_filtered.wav|pitch/jvm_09724_00795238412_filtered.pt|orang tua ngetokake bir modhel luar
+wavs/jvm_01519_00188565600_filtered.wav|pitch/jvm_01519_00188565600_filtered.pt|wis jan ciptaane gusti allah apik ora lumrah ning gili trawangan
+wavs/jvm_09724_00819200014_filtered.wav|pitch/jvm_09724_00819200014_filtered.pt|boneka poppy biyen diperanke ambèk diana pungky
+wavs/jvm_09724_01332460150_filtered.wav|pitch/jvm_09724_01332460150_filtered.pt|prima jasa ditilang pulisi amarga nyalip liwat kiwa
+wavs/jvm_09724_01441533675_filtered.wav|pitch/jvm_09724_01441533675_filtered.pt|nek_conj awakmu macem macem tak warahna courteney cox lho
+wavs/jvm_09724_00756506269_filtered.wav|pitch/jvm_09724_00756506269_filtered.pt|freddie mercury budal ngetan jarene arep ndandakna motore
+wavs/jvm_01519_01667798009_filtered.wav|pitch/jvm_01519_01667798009_filtered.pt|wedhakipun skin food cocok kagem kulit tiyang enom
+wavs/jvm_01519_02105151430_filtered.wav|pitch/jvm_01519_02105151430_filtered.pt|surya saputra nggendhong anake ngalor ngidul ngetan ngulon
+wavs/jvm_09724_00535514088_filtered.wav|pitch/jvm_09724_00535514088_filtered.pt|acara apik sing disiarna h_letter b_letter o_letter kuwi opo ae ya
+wavs/jvm_09724_00890267688_filtered.wav|pitch/jvm_09724_00890267688_filtered.pt|pejabat sing paling dhuwur ning yozawa sapa jenenge
+wavs/jvm_09724_00582237761_filtered.wav|pitch/jvm_09724_00582237761_filtered.pt|menawi badhe mirsani balapan kedah mirsani tayangan jam kalih seprapat enjing
+wavs/jvm_07765_01936321005_filtered.wav|pitch/jvm_07765_01936321005_filtered.pt|kopi kopi metunane kapal api group paite ora memper
+wavs/jvm_07765_01245579400_filtered.wav|pitch/jvm_07765_01245579400_filtered.pt|agus ngaku ngaku dadi anake pak r_letter t_letter ben isa oleh warisan
+wavs/jvm_07765_00791951293_filtered.wav|pitch/jvm_07765_00791951293_filtered.pt|gemblong bu juju menika kathah disade ten serpong
+wavs/jvm_01519_00171181608_filtered.wav|pitch/jvm_01519_00171181608_filtered.pt|erna mari tuku montor suzuki pas nang pameran wingi
+wavs/jvm_09724_00583046046_filtered.wav|pitch/jvm_09724_00583046046_filtered.pt|nedha ès grim teng_prep haagen dazs saged kalih linggih teng_prep dalem tokonipun
+wavs/jvm_09724_01286052015_filtered.wav|pitch/jvm_09724_01286052015_filtered.pt|celananipun namung wonten ten croozt
+wavs/jvm_09724_00313851806_filtered.wav|pitch/jvm_09724_00313851806_filtered.pt|mbok ya transit sik ning bandhara internasional ataturk
+wavs/jvm_07765_00493891118_filtered.wav|pitch/jvm_07765_00493891118_filtered.pt|saiki stasiun ambarawa wis dadi museum
+wavs/jvm_01519_00846589633_filtered.wav|pitch/jvm_01519_00846589633_filtered.pt|mbak esti dados pelayan teng_prep toko naughty
+wavs/jvm_07765_00534340223_filtered.wav|pitch/jvm_07765_00534340223_filtered.pt|mangke wangsulipun miyos kantor dunia tera
+wavs/jvm_09724_01737791103_filtered.wav|pitch/jvm_09724_01737791103_filtered.pt|ne yo diluk engkas arep comeback ambèk lagune sing kontroversial iku
+wavs/jvm_07765_00282479978_filtered.wav|pitch/jvm_07765_00282479978_filtered.pt|pak lurah biasane mlayu mlayu dina kemis isuk
+wavs/jvm_01519_01648183131_filtered.wav|pitch/jvm_01519_01648183131_filtered.pt|menawi kerang ingkang eca padhos ten warung
+wavs/jvm_01519_01530900472_filtered.wav|pitch/jvm_01519_01530900472_filtered.pt|meja ingkang panjenengan pundhut jumlahipun seket_nou-num iji
+wavs/jvm_07765_01446634386_filtered.wav|pitch/jvm_07765_01446634386_filtered.pt|machu picchu ki sakjane isine mung watu sing bentuke ora nggenah tapi ketok apik
+wavs/jvm_07765_00891490900_filtered.wav|pitch/jvm_07765_00891490900_filtered.pt|usia minimal yen arep ndaftar relawan iku patang puluh taun
+wavs/jvm_07765_01792446307_filtered.wav|pitch/jvm_07765_01792446307_filtered.pt|potonganmu tambah mbois pas nggawe sepatu reebok iku
+wavs/jvm_09724_00599660279_filtered.wav|pitch/jvm_09724_00599660279_filtered.pt|njenengan kapan badhe teng_prep daleme christian bale
+wavs/jvm_07765_01563665272_filtered.wav|pitch/jvm_07765_01563665272_filtered.pt|kathoke giovanni adhem gawen gawenane
+wavs/jvm_07765_00983812511_filtered.wav|pitch/jvm_07765_00983812511_filtered.pt|yen pingin aman ya mending asuransi jiwasraya
+wavs/jvm_01519_00378733424_filtered.wav|pitch/jvm_01519_00378733424_filtered.pt|bahama karo negarane dhewe sugih endi
+wavs/jvm_09724_02054135522_filtered.wav|pitch/jvm_09724_02054135522_filtered.pt|candi prambanan kuwi nduweni garis lurus menyang laut kidul
+wavs/jvm_09724_01804359491_filtered.wav|pitch/jvm_09724_01804359491_filtered.pt|paling pas pancen ning rakuten belanja online apa wae ana lan murah
+wavs/jvm_07765_00736771400_filtered.wav|pitch/jvm_07765_00736771400_filtered.pt|sing nggo syuting the hobbit kae apa ning selandia baru
+wavs/jvm_07765_01887533403_filtered.wav|pitch/jvm_07765_01887533403_filtered.pt|portia de rossi sampun mutusaken mboten ajeng nggadhah yuga saklawase
+wavs/jvm_09724_01390379119_filtered.wav|pitch/jvm_09724_01390379119_filtered.pt|tiyang mriki kathah kang mboten semerap naver niku napa
+wavs/jvm_07765_00820197700_filtered.wav|pitch/jvm_07765_00820197700_filtered.pt|fotonipun dijepret teng_prep kebon plataran dharmawangsa
+wavs/jvm_07765_00582459717_filtered.wav|pitch/jvm_07765_00582459717_filtered.pt|kucingipun mbah darmo nglairaken gangsal lucu lucu
+wavs/jvm_09724_00093236343_filtered.wav|pitch/jvm_09724_00093236343_filtered.pt|gerejane ana ning sak lore taman nasional fiordland
+wavs/jvm_07765_01252522537_filtered.wav|pitch/jvm_07765_01252522537_filtered.pt|liga bulgaria disponsori dening perusahaan rokok
+wavs/jvm_07765_00958406549_filtered.wav|pitch/jvm_07765_00958406549_filtered.pt|gedungipun sampun dipunrehab lan sak menika niku kaping sedasa
+wavs/jvm_09724_00948732963_filtered.wav|pitch/jvm_09724_00948732963_filtered.pt|apa diadora uga mroduksi kaos singlet
+wavs/jvm_07765_00601548795_filtered.wav|pitch/jvm_07765_00601548795_filtered.pt|apeme dikukus sak menit meneh suwine
+wavs/jvm_07765_01525999723_filtered.wav|pitch/jvm_07765_01525999723_filtered.pt|sumber banyu ing gunung sindoro sumbing wis sat
+wavs/jvm_07765_01403272126_filtered.wav|pitch/jvm_07765_01403272126_filtered.pt|kompas gramedia pancen top tenan
+wavs/jvm_09724_00790996449_filtered.wav|pitch/jvm_09724_00790996449_filtered.pt|menawi tasih mboten sreg njenengan saged kandha teng_prep kantor pusate pearson
+wavs/jvm_07765_00494020328_filtered.wav|pitch/jvm_07765_00494020328_filtered.pt|juni mangke artanipun telas
+wavs/jvm_09724_01384043946_filtered.wav|pitch/jvm_09724_01384043946_filtered.pt|slamete omahe rooney mara nggak kenek udan awune gunung bromo
+wavs/jvm_09724_01914705772_filtered.wav|pitch/jvm_09724_01914705772_filtered.pt|pingine turu ning fukushima tapi pakdheku emoh
+wavs/jvm_09724_01365346142_filtered.wav|pitch/jvm_09724_01365346142_filtered.pt|kula ngarep arep supaya rio haryanto dipun undang dateng tim mclaren
+wavs/jvm_07765_00118293044_filtered.wav|pitch/jvm_07765_00118293044_filtered.pt|kula badhe ten kantor pos sekedhap namung gangsal welas menit
+wavs/jvm_09724_01639856928_filtered.wav|pitch/jvm_09724_01639856928_filtered.pt|ridho rhoma gawe roti saka glepung endhog lan banyu

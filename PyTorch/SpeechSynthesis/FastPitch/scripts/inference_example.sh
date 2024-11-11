@@ -3,9 +3,9 @@
 export CUDNN_V8_API_ENABLED=1  # Keep the flag for older containers
 export TORCH_CUDNN_V8_API_ENABLED=1
 
-: ${DATASET_DIR:="data/LJSpeech-1.1"}
+: ${DATASET_DIR:="my_dataset"}
 : ${BATCH_SIZE:=32}
-: ${FILELIST:="phrases/devset10.tsv"}
+: ${FILELIST:="filelists/mel_output_text_test.tsv"}
 : ${AMP:=false}
 : ${TORCHSCRIPT:=true}
 : ${WARMUP:=0}
@@ -15,26 +15,30 @@ export TORCH_CUDNN_V8_API_ENABLED=1
 : ${CUDNN_BENCHMARK:=false}
 
 # Paths to pre-trained models downloadable from NVIDIA NGC (LJSpeech-1.1)
-FASTPITCH_LJ="pretrained_models/fastpitch/nvidia_fastpitch_210824.pt"
-HIFIGAN_LJ="pretrained_models/hifigan/hifigan_gen_checkpoint_10000_ft.pt"
+FASTPITCH_100="output/FastPitch_checkpoint_100.pt"
+FASTPITCH_140="output/FastPitch_checkpoint_140.pt"
+FASTPITCH_150="output/FastPitch_checkpoint_150.pt"
+# FASTPITCH_LJ="pretrained_models/fastpitch/nvidia_fastpitch_210824.pt"
+# HIFIGAN_LJ="pretrained_models/hifigan/hifigan_gen_checkpoint_10000_ft.pt"
 WAVEGLOW_LJ="pretrained_models/waveglow/nvidia_waveglow256pyt_fp16.pt"
 
 # Mel-spectrogram generator (optional; can synthesize from ground-truth spectrograms)
-: ${FASTPITCH=$FASTPITCH_LJ}
+# : ${FASTPITCH=$FASTPITCH_LJ}
+: ${FASTPITCH=$FASTPITCH_150}
 
 # Vocoder (set only one)
-: ${HIFIGAN=$HIFIGAN_LJ}
-# : ${WAVEGLOW=$WAVEGLOW_LJ}
+# : ${HIFIGAN=$HIFIGAN_LJ}
+: ${WAVEGLOW=$WAVEGLOW_LJ}
 
-[[ "$FASTPITCH" == "$FASTPITCH_LJ" && ! -f "$FASTPITCH" ]] && { echo "Downloading $FASTPITCH from NGC..."; bash scripts/download_models.sh fastpitch; }
+[[ "$FASTPITCH" == "$FASTPITCH_150" && ! -f "$FASTPITCH" ]] && { echo "Downloading $FASTPITCH from NGC..."; bash scripts/download_models.sh fastpitch; }
 [[ "$WAVEGLOW" == "$WAVEGLOW_LJ" && ! -f "$WAVEGLOW" ]] && { echo "Downloading $WAVEGLOW from NGC..."; bash scripts/download_models.sh waveglow; }
-[[ "$HIFIGAN" == "$HIFIGAN_LJ" && ! -f "$HIFIGAN" ]] && { echo "Downloading $HIFIGAN from NGC..."; bash scripts/download_models.sh hifigan-finetuned-fastpitch; }
+# [[ "$HIFIGAN" == "$HIFIGAN_LJ" && ! -f "$HIFIGAN" ]] && { echo "Downloading $HIFIGAN from NGC..."; bash scripts/download_models.sh hifigan-finetuned-fastpitch; }
 
-if [[ "$HIFIGAN" == "$HIFIGAN_LJ" && "$FASTPITCH" != "$FASTPITCH_LJ" ]]; then
-    echo -e "\nNOTE: Using HiFi-GAN checkpoint trained for the LJSpeech-1.1 dataset."
-    echo -e "NOTE: If you're using a different dataset, consider training a new HiFi-GAN model or switch to WaveGlow."
-    echo -e "NOTE: See $0 for details.\n"
-fi
+# if [[ "$HIFIGAN" == "$HIFIGAN_LJ" && "$FASTPITCH" != "$FASTPITCH_LJ" ]]; then
+#     echo -e "\nNOTE: Using HiFi-GAN checkpoint trained for the LJSpeech-1.1 dataset."
+#     echo -e "NOTE: If you're using a different dataset, consider training a new HiFi-GAN model or switch to WaveGlow."
+#     echo -e "NOTE: See $0 for details.\n"
+# fi
 
 # Synthesis
 : ${SPEAKER:=0}
@@ -47,7 +51,7 @@ if [ ! -n "$OUTPUT_DIR" ]; then
     [ -n "$FASTPITCH" ]   && OUTPUT_DIR+="_fastpitch"
     [ ! -n "$FASTPITCH" ] && OUTPUT_DIR+="_gt-mel"
     [ -n "$WAVEGLOW" ]    && OUTPUT_DIR+="_waveglow"
-    [ -n "$HIFIGAN" ]     && OUTPUT_DIR+="_hifigan"
+    # [ -n "$HIFIGAN" ]     && OUTPUT_DIR+="_hifigan"
     OUTPUT_DIR+="_denoise-"${DENOISING}
 fi
 : ${LOG_FILE:="$OUTPUT_DIR/nvlog_infer.json"}
@@ -68,7 +72,7 @@ ARGS+=" --speaker $SPEAKER"
 [ "$CPU" = false ]        && ARGS+=" --cuda"
 [ "$AMP" = true ]         && ARGS+=" --amp"
 [ "$TORCHSCRIPT" = true ] && ARGS+=" --torchscript"
-[ -n "$HIFIGAN" ]         && ARGS+=" --hifigan $HIFIGAN"
+# [ -n "$HIFIGAN" ]         && ARGS+=" --hifigan $HIFIGAN"
 [ -n "$WAVEGLOW" ]        && ARGS+=" --waveglow $WAVEGLOW"
 [ -n "$FASTPITCH" ]       && ARGS+=" --fastpitch $FASTPITCH"
 [ "$PHONE" = true ]       && ARGS+=" --p-arpabet 1.0"

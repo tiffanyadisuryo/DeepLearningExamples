@@ -35,8 +35,9 @@ from itertools import cycle
 import numpy as np
 import torch
 import torch.distributed as dist
-import amp_C
-from apex.optimizers import FusedAdam, FusedLAMB
+import torch_optimizer as optim
+# import amp_C
+# from apex.optimizers import FusedAdam, FusedLAMB
 from torch.nn.parallel import DistributedDataParallel
 from torch.utils.data import DataLoader
 from torch.utils.data.distributed import DistributedSampler
@@ -180,7 +181,7 @@ def parse_args(parser):
                        help='Maximum mel frequency')
 
     dist = parser.add_argument_group('distributed setup')
-    dist.add_argument('--local_rank', type=int, default=os.getenv('LOCAL_RANK', 0),
+    dist.add_argument('--local_rank', type=int, default=os.getenv('LOCAL_RANK', -1),
                       help='Rank of the process for multiproc; do not set manually')
     dist.add_argument('--world_size', type=int, default=os.getenv('WORLD_SIZE', 1),
                       help='Number of processes for multiproc; do not set manually')
@@ -278,9 +279,12 @@ def init_multi_tensor_ema(model, ema_model):
 
 
 def apply_multi_tensor_ema(decay, model_weights, ema_weights, overflow_buf):
-    amp_C.multi_tensor_axpby(
-        65536, overflow_buf, [ema_weights, model_weights, ema_weights],
-        decay, 1-decay, -1)
+    # Perform element-wise operations without using amp_C
+    for i in range(len(model_weights)):
+        # Apply the exponential moving average update formula manually
+        ema_weights[i] = decay * ema_weights[i] + (1 - decay) * model_weights[i]
+    return ema_weights
+
 
 
 def main():
@@ -312,8 +316,8 @@ def main():
 
     parser = models.parse_model_args('FastPitch', parser)
     args, unk_args = parser.parse_known_args()
-    if len(unk_args) > 0:
-        raise ValueError(f'Invalid options {unk_args}')
+    # if len(unk_args) > 0:
+    #     raise ValueError(f'Invalid options {unk_args}')
 
     torch.backends.cudnn.benchmark = args.cudnn_benchmark
 
@@ -339,13 +343,15 @@ def main():
     model.pitch_std[0] = args.pitch_std
 
     kw = dict(lr=args.learning_rate, betas=(0.9, 0.98), eps=1e-9,
-              weight_decay=args.weight_decay)
+            weight_decay=args.weight_decay)
+
     if args.optimizer == 'adam':
-        optimizer = FusedAdam(model.parameters(), **kw)
+        optimizer = optim.Adam(model.parameters(), **kw)
     elif args.optimizer == 'lamb':
-        optimizer = FusedLAMB(model.parameters(), **kw)
+        optimizer = optim.Lamb(model.parameters(), **kw)
     else:
-        raise ValueError
+        raise ValueError(f"Unsupported optimizer: {args.optimizer}")
+
 
     scaler = torch.cuda.amp.GradScaler(enabled=args.amp)
 

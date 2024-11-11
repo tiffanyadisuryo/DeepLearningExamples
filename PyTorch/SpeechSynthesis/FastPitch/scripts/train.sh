@@ -2,23 +2,22 @@
 
 export OMP_NUM_THREADS=1
 
-: ${NUM_GPUS:=8}
+: ${NUM_GPUS:=1}
 : ${BATCH_SIZE:=16}
-: ${GRAD_ACCUMULATION:=2}
+: ${GRAD_ACCUMULATION:=16}
 : ${OUTPUT_DIR:="./output"}
 : ${LOG_FILE:=$OUTPUT_DIR/nvlog.json}
-: ${DATASET_PATH:=LJSpeech-1.1}
-: ${TRAIN_FILELIST:=filelists/ljs_audio_pitch_text_train_v3.txt}
-: ${VAL_FILELIST:=filelists/ljs_audio_pitch_text_val.txt}
-: ${AMP:=false}
-: ${SEED:=""}
+: ${DATASET_PATH:=my_dataset}
+: ${TRAIN_FILELIST:=filelists/audio_pitch_text_train.txt}
+: ${VAL_FILELIST:=filelists/audio_pitch_text_val.txt}
+: ${SEED:=247}
 
 : ${LEARNING_RATE:=0.1}
 
 # Adjust these when the amount of data changes
-: ${EPOCHS:=1000}
+: ${EPOCHS:=150}
 : ${EPOCHS_PER_CHECKPOINT:=20}
-: ${WARMUP_STEPS:=1000}
+: ${WARMUP_STEPS:=150}
 : ${KL_LOSS_WARMUP:=100}
 
 # Train a mixed phoneme/grapheme model
@@ -26,7 +25,7 @@ export OMP_NUM_THREADS=1
 # Enable energy conditioning
 : ${ENERGY:=true}
 : ${TEXT_CLEANERS:=english_cleaners_v2}
-# Add dummy space prefix/suffix is audio is not precisely trimmed
+# Add dummy space prefix/suffix if audio is not precisely trimmed
 : ${APPEND_SPACES:=false}
 
 : ${LOAD_PITCH_FROM_DISK:=true}
@@ -39,7 +38,7 @@ export OMP_NUM_THREADS=1
 # Adjust env variables to maintain the global batch size: NUM_GPUS x BATCH_SIZE x GRAD_ACCUMULATION = 256.
 GBS=$(($NUM_GPUS * $BATCH_SIZE * $GRAD_ACCUMULATION))
 [ $GBS -ne 256 ] && echo -e "\nWARNING: Global batch size changed from 256 to ${GBS}."
-echo -e "\nAMP=$AMP, ${NUM_GPUS}x${BATCH_SIZE}x${GRAD_ACCUMULATION}" \
+echo -e "\n${NUM_GPUS}x${BATCH_SIZE}x${GRAD_ACCUMULATION}" \
         "(global batch size ${GBS})\n"
 
 # ARGS=""
@@ -70,16 +69,15 @@ ARGS+=" --kl-loss-warmup-epochs $KL_LOSS_WARMUP"
 ARGS+=" --text-cleaners $TEXT_CLEANERS"
 ARGS+=" --n-speakers $NSPEAKERS"
 
-[ "$AMP" = "true" ]                    && ARGS+=" --amp"
-[ "$PHONE" = "true" ]                  && ARGS+=" --p-arpabet 1.0"
-[ "$ENERGY" = "true" ]                 && ARGS+=" --energy-conditioning"
-[ "$SEED" != "" ]                      && ARGS+=" --seed $SEED"
-[ "$LOAD_MEL_FROM_DISK" = true ]       && ARGS+=" --load-mel-from-disk"
-[ "$LOAD_PITCH_FROM_DISK" = true ]     && ARGS+=" --load-pitch-from-disk"
-[ "$PITCH_ONLINE_DIR" != "" ]          && ARGS+=" --pitch-online-dir $PITCH_ONLINE_DIR"  # e.g., /dev/shm/pitch
-[ "$PITCH_ONLINE_METHOD" != "" ]       && ARGS+=" --pitch-online-method $PITCH_ONLINE_METHOD"
-[ "$APPEND_SPACES" = true ]            && ARGS+=" --prepend-space-to-text"
-[ "$APPEND_SPACES" = true ]            && ARGS+=" --append-space-to-text"
+[ "$PHONE" = "true" ] && ARGS+=" --p-arpabet 1.0"
+[ "$ENERGY" = "true" ] && ARGS+=" --energy-conditioning"
+[ "$SEED" != "" ] && ARGS+=" --seed $SEED"
+[ "$LOAD_MEL_FROM_DISK" = true ] && ARGS+=" --load-mel-from-disk"
+[ "$LOAD_PITCH_FROM_DISK" = true ] && ARGS+=" --load-pitch-from-disk"
+[ "$PITCH_ONLINE_DIR" != "" ] && ARGS+=" --pitch-online-dir $PITCH_ONLINE_DIR"  # e.g., /dev/shm/pitch
+[ "$PITCH_ONLINE_METHOD" != "" ] && ARGS+=" --pitch-online-method $PITCH_ONLINE_METHOD"
+[ "$APPEND_SPACES" = true ] && ARGS+=" --prepend-space-to-text"
+[ "$APPEND_SPACES" = true ] && ARGS+=" --append-space-to-text"
 [[ "$ARGS" != *"--checkpoint-path"* ]] && ARGS+=" --resume"
 
 if [ "$SAMPLING_RATE" == "44100" ]; then
